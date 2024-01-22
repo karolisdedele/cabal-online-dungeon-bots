@@ -1,0 +1,7724 @@
+Run finished at: January 17, 2021
+21:05:22
+Runs done: 1
+Run finished at: January 17, 2021
+21:23:34
+Runs done: 2
+Run finished at: January 17, 2021
+21:41:21
+Runs done: 3
+Run finished at: January 17, 2021
+21:59:50
+Runs done: 4
+Run finished at: January 17, 2021
+22:17:54
+Runs done: 5
+Run finished at: January 17, 2021
+22:36:11
+Runs done: 6
+Run finished at: January 17, 2021
+22:54:34
+Runs done: 7
+Run finished at: January 17, 2021
+23:12:16
+Runs done: 8
+Run finished at: January 17, 2021
+23:30:58
+Runs done: 9
+Run finished at: January 17, 2021
+23:49:03
+Runs done: 10
+Run finished at: January 18, 2021
+00:07:45
+Runs done: 11
+Run finished at: January 18, 2021
+00:25:22
+Runs done: 12
+Run finished at: January 18, 2021
+00:44:09
+Runs done: 13
+Run finished at: January 18, 2021
+01:01:54
+Runs done: 14
+Run finished at: January 18, 2021
+01:19:22
+Runs done: 15
+Run finished at: January 18, 2021
+01:36:58
+Runs done: 16
+Run finished at: January 18, 2021
+01:53:57
+Runs done: 17
+Run finished at: January 18, 2021
+02:12:00
+Runs done: 18
+Run finished at: January 18, 2021
+02:29:57
+Runs done: 19
+Run finished at: January 18, 2021
+02:47:51
+Runs done: 20
+Run finished at: January 18, 2021
+03:05:35
+Runs done: 21
+Run finished at: January 18, 2021
+03:23:53
+Runs done: 22
+Run finished at: January 18, 2021
+03:42:13
+Runs done: 23
+Run finished at: January 18, 2021
+23:53:24
+Runs done: 1
+Run finished at: January 19, 2021
+00:11:00
+Runs done: 2
+Run finished at: January 19, 2021
+00:27:59
+Runs done: 3
+Run finished at: January 19, 2021
+00:45:12
+Runs done: 4
+Run finished at: January 19, 2021
+01:02:14
+Runs done: 5
+Run finished at: January 19, 2021
+01:20:08
+Runs done: 6
+Run finished at: January 19, 2021
+01:37:28
+Runs done: 7
+Run finished at: January 19, 2021
+01:55:16
+Runs done: 8
+Run finished at: January 19, 2021
+02:13:27
+Runs done: 9
+Run finished at: January 19, 2021
+02:31:51
+Runs done: 10
+Run finished at: January 19, 2021
+02:49:44
+Runs done: 11
+Run finished at: January 19, 2021
+03:07:14
+Runs done: 12
+Run finished at: January 19, 2021
+03:24:33
+Runs done: 13
+Run finished at: January 19, 2021
+03:42:13
+Runs done: 14
+Run finished at: January 19, 2021
+03:59:48
+Runs done: 15
+Run finished at: January 19, 2021
+04:16:50
+Runs done: 16
+Run finished at: January 19, 2021
+04:34:46
+Runs done: 17
+Run finished at: January 19, 2021
+04:52:40
+Runs done: 18
+Run finished at: January 19, 2021
+05:10:45
+Runs done: 19
+Run finished at: January 19, 2021
+05:29:16
+Runs done: 20
+Run finished at: January 19, 2021
+05:47:19
+Runs done: 21
+Run finished at: January 19, 2021
+06:04:40
+Runs done: 22
+Run finished at: January 19, 2021
+06:23:01
+Runs done: 23
+Run finished at: January 19, 2021
+06:40:59
+Runs done: 24
+Run finished at: January 19, 2021
+06:58:49
+Runs done: 25
+Run finished at: January 19, 2021
+07:16:22
+Runs done: 26
+Run finished at: January 19, 2021
+07:34:07
+Runs done: 27
+Run finished at: January 19, 2021
+07:52:01
+Runs done: 28
+Run finished at: January 19, 2021
+08:09:47
+Runs done: 29
+Run finished at: January 19, 2021
+08:27:57
+Runs done: 30
+Run finished at: January 19, 2021
+08:45:56
+Runs done: 31
+Run finished at: January 19, 2021
+09:03:57
+Runs done: 32
+Run finished at: January 19, 2021
+09:21:51
+Runs done: 33
+Run finished at: January 19, 2021
+09:40:33
+Runs done: 34
+Run finished at: January 19, 2021
+09:58:02
+Runs done: 35
+Run finished at: January 20, 2021
+00:50:05
+Runs done: 1
+Run finished at: January 20, 2021
+01:07:44
+Runs done: 2
+Run finished at: January 20, 2021
+01:24:35
+Runs done: 3
+Run finished at: January 20, 2021
+01:41:57
+Runs done: 4
+Run finished at: January 20, 2021
+01:59:41
+Runs done: 5
+Run finished at: January 20, 2021
+02:18:03
+Runs done: 6
+Run finished at: January 20, 2021
+02:35:31
+Runs done: 7
+Run finished at: January 20, 2021
+02:53:27
+Runs done: 8
+Run finished at: January 20, 2021
+03:10:41
+Runs done: 9
+Run finished at: January 20, 2021
+03:27:33
+Runs done: 10
+Run finished at: January 20, 2021
+03:46:09
+Runs done: 11
+Run finished at: January 20, 2021
+04:03:20
+Runs done: 12
+Run finished at: January 20, 2021
+04:20:48
+Runs done: 13
+Run finished at: January 20, 2021
+04:38:10
+Runs done: 14
+Run finished at: January 20, 2021
+04:55:16
+Runs done: 15
+Run finished at: January 20, 2021
+05:12:29
+Runs done: 16
+Run finished at: January 20, 2021
+05:29:43
+Runs done: 17
+Run finished at: January 20, 2021
+05:46:49
+Runs done: 18
+Run finished at: January 20, 2021
+06:04:33
+Runs done: 19
+Run finished at: January 20, 2021
+06:22:01
+Runs done: 20
+Run finished at: January 20, 2021
+06:39:58
+Runs done: 21
+Run finished at: January 20, 2021
+06:57:38
+Runs done: 22
+Run finished at: January 20, 2021
+07:15:26
+Runs done: 23
+Run finished at: January 20, 2021
+07:32:49
+Runs done: 24
+Run finished at: January 20, 2021
+07:50:32
+Runs done: 25
+Run finished at: January 21, 2021
+00:13:11
+Runs done: 1
+Run finished at: January 21, 2021
+00:30:18
+Runs done: 2
+Run finished at: January 21, 2021
+00:47:38
+Runs done: 3
+Run finished at: January 21, 2021
+01:05:05
+Runs done: 4
+Run finished at: January 21, 2021
+01:21:32
+Runs done: 5
+Run finished at: January 21, 2021
+01:38:43
+Runs done: 6
+Run finished at: January 21, 2021
+01:56:08
+Runs done: 7
+Run finished at: January 21, 2021
+02:13:50
+Runs done: 8
+Run finished at: January 21, 2021
+02:31:39
+Runs done: 9
+Run finished at: January 21, 2021
+02:48:48
+Runs done: 10
+Run finished at: January 21, 2021
+03:06:06
+Runs done: 11
+Run finished at: January 21, 2021
+03:23:14
+Runs done: 12
+Run finished at: January 21, 2021
+03:41:22
+Runs done: 13
+Run finished at: January 21, 2021
+03:58:37
+Runs done: 14
+Run finished at: January 21, 2021
+04:16:33
+Runs done: 15
+Run finished at: January 21, 2021
+04:34:03
+Runs done: 16
+Run finished at: January 21, 2021
+04:51:30
+Runs done: 17
+Run finished at: January 21, 2021
+05:08:25
+Runs done: 18
+Run finished at: January 21, 2021
+05:26:03
+Runs done: 19
+Run finished at: January 21, 2021
+05:43:48
+Runs done: 20
+Run finished at: January 21, 2021
+06:01:08
+Runs done: 21
+Run finished at: January 21, 2021
+06:18:52
+Runs done: 22
+Run finished at: January 21, 2021
+06:36:11
+Runs done: 23
+Run finished at: January 21, 2021
+06:53:51
+Runs done: 24
+Run finished at: January 21, 2021
+07:11:11
+Runs done: 25
+Run finished at: January 21, 2021
+07:28:45
+Runs done: 26
+Run finished at: January 21, 2021
+07:45:35
+Runs done: 27
+Run finished at: January 21, 2021
+08:02:33
+Runs done: 28
+Run finished at: January 21, 2021
+08:20:16
+Runs done: 29
+Run finished at: January 21, 2021
+08:39:12
+Runs done: 30
+Run finished at: January 21, 2021
+08:56:42
+Runs done: 31
+Run finished at: January 21, 2021
+09:14:38
+Runs done: 32
+Run finished at: January 21, 2021
+09:32:26
+Runs done: 33
+Run finished at: January 21, 2021
+09:49:41
+Runs done: 34
+Run finished at: January 21, 2021
+10:07:24
+Runs done: 35
+Run finished at: January 22, 2021
+02:38:57
+Runs done: 1
+Run finished at: January 22, 2021
+02:56:33
+Runs done: 2
+Run finished at: January 22, 2021
+03:14:11
+Runs done: 3
+Run finished at: January 22, 2021
+03:31:01
+Runs done: 4
+Run finished at: January 22, 2021
+03:48:37
+Runs done: 5
+Run finished at: January 22, 2021
+04:06:00
+Runs done: 6
+Run finished at: January 22, 2021
+04:23:28
+Runs done: 7
+Run finished at: January 22, 2021
+04:41:10
+Runs done: 8
+Run finished at: January 22, 2021
+04:59:00
+Runs done: 9
+Run finished at: January 22, 2021
+05:17:00
+Runs done: 10
+Run finished at: January 22, 2021
+05:35:22
+Runs done: 11
+Run finished at: January 22, 2021
+05:52:58
+Runs done: 12
+Run finished at: January 22, 2021
+06:10:20
+Runs done: 13
+Run finished at: January 22, 2021
+06:27:37
+Runs done: 14
+Run finished at: January 22, 2021
+06:44:56
+Runs done: 15
+Run finished at: January 22, 2021
+07:01:29
+Runs done: 16
+Run finished at: January 22, 2021
+07:19:14
+Runs done: 17
+Run finished at: January 22, 2021
+07:37:36
+Runs done: 18
+Run finished at: January 22, 2021
+07:55:26
+Runs done: 19
+Run finished at: January 22, 2021
+08:13:33
+Runs done: 20
+Run finished at: January 22, 2021
+08:31:10
+Runs done: 21
+Run finished at: January 22, 2021
+08:49:42
+Runs done: 22
+Run finished at: January 22, 2021
+09:07:36
+Runs done: 23
+Run finished at: January 22, 2021
+09:25:18
+Runs done: 24
+Run finished at: January 22, 2021
+09:43:24
+Runs done: 25
+Run finished at: January 22, 2021
+10:01:10
+Runs done: 26
+Run finished at: January 22, 2021
+10:18:55
+Runs done: 27
+Run finished at: January 22, 2021
+10:36:30
+Runs done: 28
+Run finished at: January 22, 2021
+10:54:18
+Runs done: 29
+Run finished at: January 22, 2021
+11:28:38
+Runs done: 1
+Run finished at: January 22, 2021
+11:46:19
+Runs done: 2
+Run finished at: January 22, 2021
+12:04:34
+Runs done: 3
+Run finished at: January 22, 2021
+12:21:41
+Runs done: 4
+Run finished at: January 23, 2021
+02:27:54
+Runs done: 1
+Run finished at: January 23, 2021
+02:45:00
+Runs done: 2
+Run finished at: January 23, 2021
+03:02:59
+Runs done: 3
+Run finished at: January 23, 2021
+03:21:08
+Runs done: 4
+Run finished at: January 23, 2021
+03:39:13
+Runs done: 5
+Run finished at: January 23, 2021
+03:57:05
+Runs done: 6
+Run finished at: January 23, 2021
+04:14:00
+Runs done: 7
+Run finished at: January 23, 2021
+04:31:15
+Runs done: 8
+Run finished at: January 23, 2021
+04:48:23
+Runs done: 9
+Run finished at: January 23, 2021
+05:05:35
+Runs done: 10
+Run finished at: January 23, 2021
+05:22:36
+Runs done: 11
+Run finished at: January 23, 2021
+05:40:08
+Runs done: 12
+Run finished at: January 23, 2021
+05:58:01
+Runs done: 13
+Run finished at: January 23, 2021
+06:15:08
+Runs done: 14
+Run finished at: January 23, 2021
+06:32:10
+Runs done: 15
+Run finished at: January 23, 2021
+06:49:54
+Runs done: 16
+Run finished at: January 23, 2021
+08:52:33
+Runs done: 1
+Run finished at: January 23, 2021
+09:09:48
+Runs done: 2
+Run finished at: January 23, 2021
+09:26:52
+Runs done: 3
+Run finished at: January 23, 2021
+09:45:34
+Runs done: 4
+Run finished at: January 23, 2021
+10:02:55
+Runs done: 5
+Run finished at: January 23, 2021
+10:20:29
+Runs done: 6
+Run finished at: January 23, 2021
+10:37:27
+Runs done: 7
+Run finished at: January 23, 2021
+10:55:16
+Runs done: 8
+Run finished at: January 23, 2021
+11:12:50
+Runs done: 9
+Run finished at: January 23, 2021
+11:31:17
+Runs done: 10
+Run finished at: January 23, 2021
+11:49:41
+Runs done: 11
+Run finished at: January 23, 2021
+12:07:51
+Runs done: 12
+Run finished at: January 23, 2021
+12:25:24
+Runs done: 13
+Run finished at: January 24, 2021
+03:19:53
+Runs done: 1
+Run finished at: January 24, 2021
+03:37:26
+Runs done: 2
+Run finished at: January 24, 2021
+03:54:58
+Runs done: 3
+Run finished at: January 24, 2021
+04:13:12
+Runs done: 4
+Run finished at: January 24, 2021
+04:31:17
+Runs done: 5
+Run finished at: January 24, 2021
+04:49:01
+Runs done: 6
+Run finished at: January 24, 2021
+05:06:33
+Runs done: 7
+Run finished at: January 24, 2021
+05:23:54
+Runs done: 8
+Run finished at: January 24, 2021
+05:41:17
+Runs done: 9
+Run finished at: January 24, 2021
+05:59:22
+Runs done: 10
+Run finished at: January 24, 2021
+06:17:02
+Runs done: 11
+Run finished at: January 24, 2021
+06:34:07
+Runs done: 12
+Run finished at: January 24, 2021
+06:51:22
+Runs done: 13
+Run finished at: January 24, 2021
+07:08:37
+Runs done: 14
+Run finished at: January 24, 2021
+07:26:03
+Runs done: 15
+Run finished at: January 24, 2021
+07:44:07
+Runs done: 16
+Run finished at: January 24, 2021
+08:01:24
+Runs done: 17
+Run finished at: January 24, 2021
+08:19:13
+Runs done: 18
+Run finished at: January 24, 2021
+08:36:35
+Runs done: 19
+Run finished at: January 24, 2021
+08:54:06
+Runs done: 20
+Run finished at: January 24, 2021
+09:11:42
+Runs done: 21
+Run finished at: January 25, 2021
+02:16:39
+Runs done: 1
+Run finished at: January 25, 2021
+02:34:05
+Runs done: 2
+Run finished at: January 25, 2021
+02:52:15
+Runs done: 3
+Run finished at: January 25, 2021
+03:09:11
+Runs done: 4
+Run finished at: January 25, 2021
+03:26:01
+Runs done: 5
+Run finished at: January 25, 2021
+03:44:13
+Runs done: 6
+Run finished at: January 25, 2021
+04:01:48
+Runs done: 7
+Run finished at: January 25, 2021
+04:18:51
+Runs done: 8
+Run finished at: January 25, 2021
+04:36:52
+Runs done: 9
+Run finished at: January 25, 2021
+04:54:26
+Runs done: 10
+Run finished at: January 25, 2021
+05:12:01
+Runs done: 11
+Run finished at: January 25, 2021
+05:29:33
+Runs done: 12
+Run finished at: January 25, 2021
+05:48:13
+Runs done: 13
+Run finished at: January 25, 2021
+06:08:23
+Runs done: 14
+Run finished at: January 25, 2021
+06:25:30
+Runs done: 15
+Run finished at: January 25, 2021
+06:43:05
+Runs done: 16
+Run finished at: January 25, 2021
+07:00:36
+Runs done: 17
+Run finished at: January 25, 2021
+07:18:54
+Runs done: 18
+Run finished at: January 25, 2021
+07:36:13
+Runs done: 19
+Run finished at: January 25, 2021
+07:53:50
+Runs done: 20
+Run finished at: January 25, 2021
+08:11:13
+Runs done: 21
+Run finished at: January 25, 2021
+09:01:15
+Runs done: 1
+Run finished at: January 25, 2021
+09:19:08
+Runs done: 2
+Run finished at: January 25, 2021
+09:35:52
+Runs done: 3
+Run finished at: January 25, 2021
+09:54:46
+Runs done: 4
+Run finished at: January 25, 2021
+10:41:53
+Runs done: 1
+Run finished at: January 25, 2021
+23:50:53
+Runs done: 1
+Run finished at: January 26, 2021
+00:09:02
+Runs done: 2
+Run finished at: January 26, 2021
+00:26:40
+Runs done: 3
+Run finished at: January 26, 2021
+00:43:58
+Runs done: 4
+Run finished at: January 26, 2021
+01:01:25
+Runs done: 5
+Run finished at: January 26, 2021
+01:18:57
+Runs done: 6
+Run finished at: January 26, 2021
+01:35:47
+Runs done: 7
+Run finished at: January 26, 2021
+01:52:38
+Runs done: 8
+Run finished at: January 26, 2021
+02:10:45
+Runs done: 9
+Run finished at: January 26, 2021
+02:29:08
+Runs done: 10
+Run finished at: January 26, 2021
+02:47:22
+Runs done: 11
+Run finished at: January 26, 2021
+03:05:30
+Runs done: 12
+Run finished at: January 26, 2021
+03:22:41
+Runs done: 13
+Run finished at: January 26, 2021
+03:40:44
+Runs done: 14
+Run finished at: January 26, 2021
+03:57:38
+Runs done: 15
+Run finished at: January 26, 2021
+04:15:50
+Runs done: 16
+Run finished at: January 26, 2021
+04:34:05
+Runs done: 17
+Run finished at: January 26, 2021
+04:52:21
+Runs done: 18
+Run finished at: January 26, 2021
+05:09:57
+Runs done: 19
+Run finished at: January 26, 2021
+05:27:07
+Runs done: 20
+Run finished at: January 26, 2021
+05:44:25
+Runs done: 21
+Run finished at: January 26, 2021
+06:01:29
+Runs done: 22
+Run finished at: January 26, 2021
+06:18:15
+Runs done: 23
+Run finished at: January 26, 2021
+06:35:57
+Runs done: 24
+Run finished at: January 26, 2021
+06:54:11
+Runs done: 25
+Run finished at: January 26, 2021
+07:12:08
+Runs done: 26
+Run finished at: January 26, 2021
+07:30:17
+Runs done: 27
+Run finished at: January 26, 2021
+07:47:37
+Runs done: 28
+Run finished at: January 26, 2021
+08:04:55
+Runs done: 29
+Run finished at: January 26, 2021
+08:22:30
+Runs done: 30
+Run finished at: January 26, 2021
+08:41:17
+Runs done: 31
+Run finished at: January 26, 2021
+08:58:40
+Runs done: 32
+Run finished at: January 26, 2021
+09:16:23
+Runs done: 33
+Run finished at: January 26, 2021
+09:34:14
+Runs done: 34
+Run finished at: January 27, 2021
+00:03:37
+Runs done: 1
+Run finished at: January 27, 2021
+00:21:19
+Runs done: 2
+Run finished at: January 27, 2021
+00:39:42
+Runs done: 3
+Run finished at: January 27, 2021
+00:56:44
+Runs done: 4
+Run finished at: January 27, 2021
+01:13:41
+Runs done: 5
+Run finished at: January 27, 2021
+01:32:29
+Runs done: 6
+Run finished at: January 27, 2021
+01:50:55
+Runs done: 7
+Run finished at: January 27, 2021
+02:08:28
+Runs done: 8
+Run finished at: January 27, 2021
+02:26:24
+Runs done: 9
+Run finished at: January 27, 2021
+02:43:34
+Runs done: 10
+Run finished at: January 27, 2021
+03:01:30
+Runs done: 11
+Run finished at: January 27, 2021
+03:20:29
+Runs done: 12
+Run finished at: January 27, 2021
+03:38:24
+Runs done: 13
+Run finished at: January 27, 2021
+03:55:27
+Runs done: 14
+Run finished at: January 27, 2021
+04:12:54
+Runs done: 15
+Run finished at: January 27, 2021
+04:30:37
+Runs done: 16
+Run finished at: January 27, 2021
+04:48:43
+Runs done: 17
+Run finished at: January 27, 2021
+05:05:55
+Runs done: 18
+Run finished at: January 27, 2021
+05:23:26
+Runs done: 19
+Run finished at: January 27, 2021
+05:41:10
+Runs done: 20
+Run finished at: January 27, 2021
+05:59:41
+Runs done: 21
+Run finished at: January 27, 2021
+06:17:09
+Runs done: 22
+Run finished at: January 27, 2021
+06:35:19
+Runs done: 23
+Run finished at: January 27, 2021
+06:52:51
+Runs done: 24
+Run finished at: January 27, 2021
+07:10:41
+Runs done: 25
+Run finished at: January 27, 2021
+07:28:01
+Runs done: 26
+Run finished at: January 27, 2021
+07:46:20
+Runs done: 27
+Run finished at: January 27, 2021
+08:04:28
+Runs done: 28
+Run finished at: January 27, 2021
+08:23:06
+Runs done: 29
+Run finished at: January 27, 2021
+08:40:44
+Runs done: 30
+Run finished at: January 27, 2021
+08:58:41
+Runs done: 31
+Run finished at: January 27, 2021
+09:32:14
+Runs done: 1
+Run finished at: January 27, 2021
+09:50:32
+Runs done: 2
+Run finished at: January 27, 2021
+10:08:42
+Runs done: 3
+Run finished at: January 28, 2021
+12:13:36
+Runs done: 1
+Run finished at: January 28, 2021
+12:30:58
+Runs done: 2
+Run finished at: January 28, 2021
+12:48:21
+Runs done: 3
+Run finished at: January 28, 2021
+13:05:51
+Runs done: 4
+Run finished at: January 28, 2021
+13:23:49
+Runs done: 5
+Run finished at: January 28, 2021
+13:41:44
+Runs done: 6
+Run finished at: January 28, 2021
+13:59:51
+Runs done: 7
+Run finished at: January 28, 2021
+14:17:58
+Runs done: 8
+Run finished at: January 28, 2021
+14:36:16
+Runs done: 9
+Run finished at: January 28, 2021
+14:54:13
+Runs done: 1
+Run finished at: January 28, 2021
+15:12:46
+Runs done: 2
+Run finished at: January 28, 2021
+15:30:49
+Runs done: 3
+Run finished at: January 28, 2021
+15:48:38
+Runs done: 4
+Run finished at: January 28, 2021
+16:06:39
+Runs done: 5
+Run finished at: January 28, 2021
+16:24:35
+Runs done: 6
+Run finished at: January 28, 2021
+16:43:07
+Runs done: 7
+Run finished at: January 28, 2021
+17:00:16
+Runs done: 8
+Run finished at: January 28, 2021
+17:18:07
+Runs done: 9
+Run finished at: January 28, 2021
+17:36:08
+Runs done: 10
+Run finished at: January 28, 2021
+17:54:14
+Runs done: 11
+Run finished at: January 28, 2021
+18:13:10
+Runs done: 12
+Run finished at: January 28, 2021
+18:30:35
+Runs done: 13
+Run finished at: January 28, 2021
+18:48:46
+Runs done: 14
+Run finished at: January 28, 2021
+19:06:24
+Runs done: 15
+Run finished at: January 28, 2021
+19:24:03
+Runs done: 16
+Run finished at: January 28, 2021
+19:40:46
+Runs done: 17
+Run finished at: January 28, 2021
+23:32:56
+Runs done: 1
+Run finished at: January 28, 2021
+23:51:22
+Runs done: 2
+Run finished at: January 29, 2021
+00:08:50
+Runs done: 3
+Run finished at: January 29, 2021
+00:26:07
+Runs done: 4
+Run finished at: January 29, 2021
+00:43:59
+Runs done: 5
+Run finished at: January 29, 2021
+01:01:44
+Runs done: 6
+Run finished at: January 29, 2021
+01:19:03
+Runs done: 7
+Run finished at: January 29, 2021
+01:36:09
+Runs done: 8
+Run finished at: January 29, 2021
+01:53:38
+Runs done: 9
+Run finished at: January 29, 2021
+02:11:08
+Runs done: 10
+Run finished at: January 29, 2021
+02:27:43
+Runs done: 11
+Run finished at: January 29, 2021
+02:45:16
+Runs done: 12
+Run finished at: January 29, 2021
+03:03:20
+Runs done: 13
+Run finished at: January 29, 2021
+03:20:38
+Runs done: 14
+Run finished at: January 29, 2021
+03:38:41
+Runs done: 15
+Run finished at: January 29, 2021
+03:56:00
+Runs done: 16
+Run finished at: January 29, 2021
+04:13:05
+Runs done: 17
+Run finished at: January 29, 2021
+04:30:36
+Runs done: 18
+Run finished at: January 29, 2021
+04:48:08
+Runs done: 19
+Run finished at: January 29, 2021
+05:06:35
+Runs done: 20
+Run finished at: January 29, 2021
+05:24:01
+Runs done: 21
+Run finished at: January 29, 2021
+05:41:30
+Runs done: 22
+Run finished at: January 29, 2021
+05:59:07
+Runs done: 23
+Run finished at: January 29, 2021
+06:16:57
+Runs done: 24
+Run finished at: January 29, 2021
+06:34:07
+Runs done: 25
+Run finished at: January 29, 2021
+06:51:28
+Runs done: 26
+Run finished at: January 29, 2021
+07:08:50
+Runs done: 27
+Run finished at: January 29, 2021
+07:26:33
+Runs done: 28
+Run finished at: January 29, 2021
+07:43:49
+Runs done: 29
+Run finished at: January 29, 2021
+08:02:07
+Runs done: 30
+Run finished at: January 29, 2021
+08:19:14
+Runs done: 31
+Run finished at: January 29, 2021
+08:36:37
+Runs done: 32
+Run finished at: January 29, 2021
+08:53:21
+Runs done: 33
+Run finished at: January 29, 2021
+09:10:34
+Runs done: 34
+Run finished at: January 29, 2021
+09:28:20
+Runs done: 35
+Run finished at: January 30, 2021
+01:11:42
+Runs done: 1
+Run finished at: January 30, 2021
+01:29:21
+Runs done: 2
+Run finished at: January 30, 2021
+01:46:06
+Runs done: 3
+Run finished at: January 30, 2021
+02:03:30
+Runs done: 4
+Run finished at: January 30, 2021
+02:20:45
+Runs done: 5
+Run finished at: January 30, 2021
+02:37:24
+Runs done: 6
+Run finished at: January 30, 2021
+02:54:08
+Runs done: 7
+Run finished at: January 30, 2021
+03:10:32
+Runs done: 8
+Run finished at: January 30, 2021
+03:27:42
+Runs done: 9
+Run finished at: January 30, 2021
+03:45:13
+Runs done: 10
+Run finished at: January 30, 2021
+04:02:15
+Runs done: 11
+Run finished at: January 30, 2021
+04:18:54
+Runs done: 12
+Run finished at: January 30, 2021
+04:35:53
+Runs done: 13
+Run finished at: January 30, 2021
+04:53:06
+Runs done: 14
+Run finished at: January 30, 2021
+05:10:32
+Runs done: 15
+Run finished at: January 30, 2021
+05:27:43
+Runs done: 16
+Run finished at: January 30, 2021
+05:44:17
+Runs done: 17
+Run finished at: January 30, 2021
+06:01:32
+Runs done: 18
+Run finished at: January 30, 2021
+06:18:07
+Runs done: 19
+Run finished at: January 30, 2021
+06:35:03
+Runs done: 20
+Run finished at: January 30, 2021
+06:51:24
+Runs done: 21
+Run finished at: January 30, 2021
+07:08:10
+Runs done: 22
+Run finished at: January 30, 2021
+07:25:33
+Runs done: 23
+Run finished at: January 30, 2021
+07:42:45
+Runs done: 24
+Run finished at: January 30, 2021
+07:59:36
+Runs done: 25
+Run finished at: January 30, 2021
+08:16:15
+Runs done: 26
+Run finished at: January 30, 2021
+08:33:38
+Runs done: 27
+Run finished at: January 30, 2021
+08:50:55
+Runs done: 28
+Run finished at: January 30, 2021
+09:08:03
+Runs done: 29
+Run finished at: January 30, 2021
+09:24:23
+Runs done: 30
+Run finished at: January 30, 2021
+09:41:56
+Runs done: 31
+Run finished at: January 30, 2021
+09:58:23
+Runs done: 32
+Run finished at: January 30, 2021
+10:16:33
+Runs done: 33
+Run finished at: January 30, 2021
+10:34:10
+Runs done: 34
+Run finished at: January 30, 2021
+10:52:11
+Runs done: 35
+Run finished at: January 30, 2021
+11:10:01
+Runs done: 36
+Run finished at: January 30, 2021
+11:26:50
+Runs done: 37
+Run finished at: January 30, 2021
+11:44:06
+Runs done: 38
+Run finished at: January 30, 2021
+12:02:01
+Runs done: 39
+Run finished at: January 30, 2021
+12:19:02
+Runs done: 40
+Run finished at: January 30, 2021
+12:36:39
+Runs done: 41
+Run finished at: January 31, 2021
+01:47:21
+Runs done: 1
+Run finished at: January 31, 2021
+02:04:29
+Runs done: 2
+Run finished at: January 31, 2021
+02:21:08
+Runs done: 3
+Run finished at: January 31, 2021
+02:38:10
+Runs done: 4
+Run finished at: January 31, 2021
+02:56:09
+Runs done: 5
+Run finished at: January 31, 2021
+03:12:45
+Runs done: 6
+Run finished at: January 31, 2021
+03:29:44
+Runs done: 7
+Run finished at: January 31, 2021
+03:46:10
+Runs done: 8
+Run finished at: January 31, 2021
+04:03:10
+Runs done: 9
+Run finished at: January 31, 2021
+04:20:04
+Runs done: 10
+Run finished at: January 31, 2021
+04:37:19
+Runs done: 11
+Run finished at: January 31, 2021
+04:54:19
+Runs done: 12
+Run finished at: January 31, 2021
+05:11:37
+Runs done: 13
+Run finished at: January 31, 2021
+05:28:52
+Runs done: 14
+Run finished at: January 31, 2021
+05:45:30
+Runs done: 15
+Run finished at: January 31, 2021
+06:02:12
+Runs done: 16
+Run finished at: January 31, 2021
+06:18:30
+Runs done: 17
+Run finished at: January 31, 2021
+06:35:33
+Runs done: 18
+Run finished at: January 31, 2021
+06:52:35
+Runs done: 19
+Run finished at: January 31, 2021
+07:09:40
+Runs done: 20
+Run finished at: January 31, 2021
+07:26:45
+Runs done: 21
+Run finished at: January 31, 2021
+07:44:13
+Runs done: 22
+Run finished at: January 31, 2021
+08:00:49
+Runs done: 23
+Run finished at: January 31, 2021
+08:17:26
+Runs done: 24
+Run finished at: January 31, 2021
+08:35:27
+Runs done: 25
+Run finished at: January 31, 2021
+08:52:03
+Runs done: 26
+Run finished at: January 31, 2021
+09:09:14
+Runs done: 27
+Run finished at: January 31, 2021
+09:26:25
+Runs done: 28
+Run finished at: January 31, 2021
+09:43:11
+Runs done: 29
+Run finished at: January 31, 2021
+10:00:02
+Runs done: 30
+Run finished at: January 31, 2021
+10:17:01
+Runs done: 31
+Run finished at: January 31, 2021
+10:33:52
+Runs done: 32
+Run finished at: January 31, 2021
+10:52:07
+Runs done: 33
+Run finished at: January 31, 2021
+11:10:12
+Runs done: 34
+Run finished at: January 31, 2021
+11:28:08
+Runs done: 1
+Run finished at: January 31, 2021
+11:45:26
+Runs done: 2
+Run finished at: January 31, 2021
+12:02:07
+Runs done: 3
+Run finished at: January 31, 2021
+12:18:57
+Runs done: 4
+Run finished at: January 31, 2021
+12:35:49
+Runs done: 5
+Run finished at: January 31, 2021
+12:52:56
+Runs done: 6
+Run finished at: January 31, 2021
+13:09:41
+Runs done: 7
+Run finished at: January 31, 2021
+13:27:15
+Runs done: 8
+Run finished at: January 31, 2021
+13:43:56
+Runs done: 9
+Run finished at: January 31, 2021
+14:01:02
+Runs done: 10
+Run finished at: January 31, 2021
+14:19:01
+Runs done: 11
+Run finished at: January 31, 2021
+14:36:28
+Runs done: 12
+Run finished at: January 31, 2021
+14:53:16
+Runs done: 13
+Run finished at: January 31, 2021
+15:10:59
+Runs done: 14
+Run finished at: January 31, 2021
+15:28:57
+Runs done: 15
+Run finished at: January 31, 2021
+15:45:53
+Runs done: 16
+Run finished at: February 01, 2021
+01:41:35
+Runs done: 1
+Run finished at: February 01, 2021
+01:59:21
+Runs done: 2
+Run finished at: February 01, 2021
+02:17:02
+Runs done: 3
+Run finished at: February 01, 2021
+02:34:16
+Runs done: 4
+Run finished at: February 01, 2021
+02:51:36
+Runs done: 5
+Run finished at: February 01, 2021
+03:09:26
+Runs done: 6
+Run finished at: February 01, 2021
+03:26:59
+Runs done: 7
+Run finished at: February 01, 2021
+03:44:26
+Runs done: 8
+Run finished at: February 01, 2021
+04:02:18
+Runs done: 9
+Run finished at: February 01, 2021
+04:20:21
+Runs done: 10
+Run finished at: February 01, 2021
+09:43:52
+Runs done: 1
+Run finished at: February 01, 2021
+10:01:24
+Runs done: 2
+Run finished at: February 01, 2021
+10:18:21
+Runs done: 3
+Run finished at: February 01, 2021
+10:35:59
+Runs done: 4
+Run finished at: February 01, 2021
+10:52:40
+Runs done: 5
+Run finished at: February 01, 2021
+11:09:50
+Runs done: 6
+Run finished at: February 01, 2021
+11:27:05
+Runs done: 7
+Run finished at: February 01, 2021
+12:01:05
+Runs done: 1
+Run finished at: February 01, 2021
+12:19:09
+Runs done: 2
+Run finished at: February 01, 2021
+12:37:16
+Runs done: 3
+Run finished at: February 01, 2021
+12:55:44
+Runs done: 4
+Run finished at: February 01, 2021
+13:13:25
+Runs done: 5
+Run finished at: February 01, 2021
+13:31:37
+Runs done: 6
+Run finished at: February 01, 2021
+13:50:18
+Runs done: 7
+Run finished at: February 01, 2021
+14:08:29
+Runs done: 8
+Run finished at: February 01, 2021
+14:26:33
+Runs done: 9
+Run finished at: February 01, 2021
+14:43:51
+Runs done: 10
+Run finished at: February 01, 2021
+15:00:59
+Runs done: 11
+Run finished at: February 01, 2021
+15:21:54
+Runs done: 1
+Run finished at: February 01, 2021
+15:39:10
+Runs done: 2
+Run finished at: February 01, 2021
+15:56:57
+Runs done: 3
+Run finished at: February 01, 2021
+16:14:03
+Runs done: 4
+Run finished at: February 01, 2021
+16:32:08
+Runs done: 5
+Run finished at: February 01, 2021
+23:59:05
+Runs done: 1
+Run finished at: February 02, 2021
+00:17:21
+Runs done: 2
+Run finished at: February 02, 2021
+00:35:58
+Runs done: 3
+Run finished at: February 02, 2021
+00:53:53
+Runs done: 4
+Run finished at: February 02, 2021
+01:12:44
+Runs done: 5
+Run finished at: February 02, 2021
+01:30:41
+Runs done: 6
+Run finished at: February 02, 2021
+01:48:50
+Runs done: 7
+Run finished at: February 02, 2021
+02:07:44
+Runs done: 8
+Run finished at: February 02, 2021
+02:25:44
+Runs done: 9
+Run finished at: February 02, 2021
+02:43:50
+Runs done: 10
+Run finished at: February 02, 2021
+03:01:28
+Runs done: 11
+Run finished at: February 02, 2021
+03:20:07
+Runs done: 12
+Run finished at: February 02, 2021
+03:38:00
+Runs done: 13
+Run finished at: February 02, 2021
+03:55:51
+Runs done: 14
+Run finished at: February 02, 2021
+04:13:48
+Runs done: 15
+Run finished at: February 02, 2021
+04:31:32
+Runs done: 16
+Run finished at: February 02, 2021
+04:49:20
+Runs done: 17
+Run finished at: February 02, 2021
+05:07:05
+Runs done: 18
+Run finished at: February 02, 2021
+05:25:16
+Runs done: 19
+Run finished at: February 02, 2021
+05:43:08
+Runs done: 20
+Run finished at: February 02, 2021
+06:00:52
+Runs done: 21
+Run finished at: February 02, 2021
+06:18:41
+Runs done: 22
+Run finished at: February 02, 2021
+06:36:16
+Runs done: 23
+Run finished at: February 02, 2021
+06:55:20
+Runs done: 24
+Run finished at: February 02, 2021
+07:12:23
+Runs done: 25
+Run finished at: February 02, 2021
+07:29:54
+Runs done: 26
+Run finished at: February 02, 2021
+07:48:06
+Runs done: 27
+Run finished at: February 02, 2021
+08:05:51
+Runs done: 28
+Run finished at: February 02, 2021
+08:24:44
+Runs done: 29
+Run finished at: February 02, 2021
+08:42:09
+Runs done: 30
+Run finished at: February 02, 2021
+09:10:29
+Runs done: 1
+Run finished at: February 02, 2021
+09:27:54
+Runs done: 2
+Run finished at: February 02, 2021
+09:45:55
+Runs done: 3
+Run finished at: February 02, 2021
+10:03:37
+Runs done: 4
+Run finished at: February 02, 2021
+23:21:28
+Runs done: 1
+Run finished at: February 02, 2021
+23:39:58
+Runs done: 2
+Run finished at: February 02, 2021
+23:57:46
+Runs done: 3
+Run finished at: February 03, 2021
+00:15:27
+Runs done: 4
+Run finished at: February 03, 2021
+00:32:56
+Runs done: 5
+Run finished at: February 03, 2021
+00:50:41
+Runs done: 6
+Run finished at: February 03, 2021
+01:09:21
+Runs done: 7
+Run finished at: February 03, 2021
+01:27:34
+Runs done: 8
+Run finished at: February 03, 2021
+01:44:52
+Runs done: 9
+Run finished at: February 03, 2021
+02:03:11
+Runs done: 10
+Run finished at: February 03, 2021
+02:20:24
+Runs done: 11
+Run finished at: February 03, 2021
+02:38:27
+Runs done: 12
+Run finished at: February 03, 2021
+02:56:19
+Runs done: 13
+Run finished at: February 03, 2021
+03:13:35
+Runs done: 14
+Run finished at: February 03, 2021
+03:31:12
+Runs done: 15
+Run finished at: February 03, 2021
+03:49:06
+Runs done: 16
+Run finished at: February 03, 2021
+04:06:41
+Runs done: 17
+Run finished at: February 03, 2021
+04:24:13
+Runs done: 18
+Run finished at: February 03, 2021
+04:42:28
+Runs done: 19
+Run finished at: February 03, 2021
+04:59:54
+Runs done: 20
+Run finished at: February 03, 2021
+05:17:42
+Runs done: 21
+Run finished at: February 03, 2021
+05:35:20
+Runs done: 22
+Run finished at: February 03, 2021
+05:55:30
+Runs done: 23
+Run finished at: February 03, 2021
+06:13:18
+Runs done: 24
+Run finished at: February 03, 2021
+06:30:54
+Runs done: 25
+Run finished at: February 03, 2021
+06:48:26
+Runs done: 26
+Run finished at: February 03, 2021
+07:06:38
+Runs done: 27
+Run finished at: February 03, 2021
+07:24:18
+Runs done: 28
+Run finished at: February 03, 2021
+07:42:22
+Runs done: 29
+Run finished at: February 03, 2021
+08:00:07
+Runs done: 30
+Run finished at: February 03, 2021
+08:20:17
+Runs done: 31
+Run finished at: February 03, 2021
+08:40:27
+Runs done: 32
+Run finished at: February 03, 2021
+09:00:38
+Runs done: 33
+Run finished at: February 03, 2021
+09:20:48
+Runs done: 34
+Run finished at: February 04, 2021
+00:07:19
+Runs done: 1
+Run finished at: February 04, 2021
+00:25:24
+Runs done: 2
+Run finished at: February 04, 2021
+00:43:33
+Runs done: 3
+Run finished at: February 04, 2021
+01:02:43
+Runs done: 4
+Run finished at: February 04, 2021
+01:20:07
+Runs done: 5
+Run finished at: February 04, 2021
+01:38:48
+Runs done: 6
+Run finished at: February 04, 2021
+01:57:24
+Runs done: 7
+Run finished at: February 04, 2021
+02:14:51
+Runs done: 8
+Run finished at: February 04, 2021
+02:33:32
+Runs done: 9
+Run finished at: February 04, 2021
+02:53:43
+Runs done: 10
+Run finished at: February 04, 2021
+03:11:51
+Runs done: 11
+Run finished at: February 04, 2021
+03:30:25
+Runs done: 12
+Run finished at: February 04, 2021
+03:47:42
+Runs done: 13
+Run finished at: February 04, 2021
+04:05:59
+Runs done: 14
+Run finished at: February 04, 2021
+04:23:34
+Runs done: 15
+Run finished at: February 04, 2021
+04:41:26
+Runs done: 16
+Run finished at: February 04, 2021
+04:59:13
+Runs done: 17
+Run finished at: February 04, 2021
+05:16:44
+Runs done: 18
+Run finished at: February 04, 2021
+05:34:32
+Runs done: 19
+Run finished at: February 04, 2021
+05:52:52
+Runs done: 20
+Run finished at: February 04, 2021
+06:10:09
+Runs done: 21
+Run finished at: February 04, 2021
+06:27:44
+Runs done: 22
+Run finished at: February 04, 2021
+06:45:10
+Runs done: 23
+Run finished at: February 04, 2021
+07:02:21
+Runs done: 24
+Run finished at: February 04, 2021
+07:19:54
+Runs done: 25
+Run finished at: February 04, 2021
+07:37:46
+Runs done: 26
+Run finished at: February 04, 2021
+07:55:34
+Runs done: 27
+Run finished at: February 04, 2021
+08:13:53
+Runs done: 28
+Run finished at: February 04, 2021
+08:31:47
+Runs done: 29
+Run finished at: February 04, 2021
+08:50:00
+Runs done: 30
+Run finished at: February 04, 2021
+09:07:51
+Runs done: 31
+Run finished at: February 04, 2021
+09:25:33
+Runs done: 32
+Run finished at: February 04, 2021
+09:43:12
+Runs done: 33
+Run finished at: February 04, 2021
+10:01:13
+Runs done: 34
+Run finished at: February 04, 2021
+23:26:02
+Runs done: 1
+Run finished at: February 04, 2021
+23:43:49
+Runs done: 2
+Run finished at: February 05, 2021
+00:01:19
+Runs done: 3
+Run finished at: February 05, 2021
+00:18:51
+Runs done: 4
+Run finished at: February 05, 2021
+00:36:05
+Runs done: 5
+Run finished at: February 05, 2021
+00:53:36
+Runs done: 6
+Run finished at: February 05, 2021
+01:11:20
+Runs done: 7
+Run finished at: February 05, 2021
+01:29:13
+Runs done: 8
+Run finished at: February 05, 2021
+01:46:43
+Runs done: 9
+Run finished at: February 05, 2021
+02:04:44
+Runs done: 10
+Run finished at: February 05, 2021
+02:22:14
+Runs done: 11
+Run finished at: February 05, 2021
+02:39:44
+Runs done: 12
+Run finished at: February 05, 2021
+02:57:10
+Runs done: 13
+Run finished at: February 05, 2021
+03:14:50
+Runs done: 14
+Run finished at: February 05, 2021
+03:32:32
+Runs done: 15
+Run finished at: February 05, 2021
+03:50:23
+Runs done: 16
+Run finished at: February 05, 2021
+04:08:00
+Runs done: 17
+Run finished at: February 05, 2021
+04:26:03
+Runs done: 18
+Run finished at: February 05, 2021
+04:43:33
+Runs done: 19
+Run finished at: February 05, 2021
+05:01:27
+Runs done: 20
+Run finished at: February 05, 2021
+05:19:43
+Runs done: 21
+Run finished at: February 05, 2021
+05:37:05
+Runs done: 22
+Run finished at: February 05, 2021
+05:56:01
+Runs done: 23
+Run finished at: February 05, 2021
+06:13:40
+Runs done: 24
+Run finished at: February 05, 2021
+06:30:54
+Runs done: 25
+Run finished at: February 05, 2021
+06:49:08
+Runs done: 26
+Run finished at: February 05, 2021
+07:08:04
+Runs done: 27
+Run finished at: February 05, 2021
+07:25:34
+Runs done: 28
+Run finished at: February 05, 2021
+07:43:20
+Runs done: 29
+Run finished at: February 05, 2021
+08:00:46
+Runs done: 30
+Run finished at: February 05, 2021
+08:18:04
+Runs done: 31
+Run finished at: February 05, 2021
+08:36:26
+Runs done: 32
+Run finished at: February 05, 2021
+08:53:41
+Runs done: 33
+Run finished at: February 05, 2021
+09:11:27
+Runs done: 34
+Run finished at: February 05, 2021
+09:29:20
+Runs done: 35
+Run finished at: February 05, 2021
+09:47:55
+Runs done: 36
+Run finished at: February 05, 2021
+10:05:57
+Runs done: 37
+Run finished at: February 05, 2021
+10:24:55
+Runs done: 38
+Run finished at: February 05, 2021
+10:57:24
+Runs done: 1
+Run finished at: February 05, 2021
+11:15:40
+Runs done: 2
+Run finished at: February 05, 2021
+11:32:56
+Runs done: 3
+Run finished at: February 05, 2021
+11:51:27
+Runs done: 4
+Run finished at: February 05, 2021
+12:09:20
+Runs done: 5
+Run finished at: February 06, 2021
+02:03:17
+Runs done: 1
+Run finished at: February 06, 2021
+02:37:05
+Runs done: 1
+Run finished at: February 06, 2021
+02:56:32
+Runs done: 2
+Run finished at: February 06, 2021
+03:15:38
+Runs done: 3
+Run finished at: February 06, 2021
+03:35:20
+Runs done: 4
+Run finished at: February 06, 2021
+03:54:44
+Runs done: 5
+Run finished at: February 06, 2021
+04:13:41
+Runs done: 6
+Run finished at: February 06, 2021
+04:32:47
+Runs done: 7
+Run finished at: February 06, 2021
+04:52:23
+Runs done: 8
+Run finished at: February 06, 2021
+05:11:32
+Runs done: 9
+Run finished at: February 06, 2021
+05:30:41
+Runs done: 10
+Run finished at: February 06, 2021
+05:49:49
+Runs done: 11
+Run finished at: February 06, 2021
+06:10:11
+Runs done: 12
+Run finished at: February 06, 2021
+06:29:47
+Runs done: 13
+Run finished at: February 06, 2021
+06:50:00
+Runs done: 14
+Run finished at: February 06, 2021
+07:09:47
+Runs done: 15
+Run finished at: February 06, 2021
+07:29:04
+Runs done: 16
+Run finished at: February 06, 2021
+07:49:01
+Runs done: 17
+Run finished at: February 06, 2021
+08:07:59
+Runs done: 18
+Run finished at: February 06, 2021
+08:27:18
+Runs done: 19
+Run finished at: February 06, 2021
+08:45:54
+Runs done: 20
+Run finished at: February 06, 2021
+09:05:03
+Runs done: 21
+Run finished at: February 06, 2021
+09:25:19
+Runs done: 22
+Run finished at: February 06, 2021
+09:45:20
+Runs done: 23
+Run finished at: February 06, 2021
+10:05:18
+Runs done: 24
+Run finished at: February 06, 2021
+10:24:40
+Runs done: 25
+Run finished at: February 06, 2021
+10:43:47
+Runs done: 26
+Run finished at: February 06, 2021
+11:02:53
+Runs done: 27
+Run finished at: February 06, 2021
+11:22:12
+Runs done: 28
+Run finished at: February 06, 2021
+11:41:14
+Runs done: 29
+Run finished at: February 06, 2021
+12:00:14
+Runs done: 30
+Run finished at: February 06, 2021
+12:19:39
+Runs done: 31
+Run finished at: February 06, 2021
+12:38:47
+Runs done: 32
+Run finished at: February 06, 2021
+13:20:48
+Runs done: 1
+Run finished at: February 06, 2021
+15:09:41
+Runs done: 1
+Run finished at: February 06, 2021
+15:29:37
+Runs done: 2
+Run finished at: February 06, 2021
+15:48:40
+Runs done: 3
+Run finished at: February 06, 2021
+16:07:12
+Runs done: 4
+Run finished at: February 06, 2021
+16:26:19
+Runs done: 5
+Run finished at: February 06, 2021
+16:45:23
+Runs done: 6
+Run finished at: February 06, 2021
+17:04:41
+Runs done: 7
+Run finished at: February 06, 2021
+17:23:44
+Runs done: 8
+Run finished at: February 07, 2021
+02:32:34
+Runs done: 1
+Run finished at: February 07, 2021
+02:51:40
+Runs done: 2
+Run finished at: February 07, 2021
+03:11:50
+Runs done: 3
+Run finished at: February 07, 2021
+03:32:06
+Runs done: 4
+Run finished at: February 07, 2021
+11:15:10
+Runs done: 1
+Run finished at: February 07, 2021
+11:34:39
+Runs done: 2
+Run finished at: February 07, 2021
+11:54:41
+Runs done: 3
+Run finished at: February 07, 2021
+12:14:22
+Runs done: 4
+Run finished at: February 07, 2021
+12:33:05
+Runs done: 5
+Run finished at: February 07, 2021
+12:52:22
+Runs done: 6
+Run finished at: February 07, 2021
+13:12:18
+Runs done: 7
+Run finished at: February 07, 2021
+13:30:56
+Runs done: 8
+Run finished at: February 07, 2021
+13:50:32
+Runs done: 9
+Run finished at: February 07, 2021
+14:09:26
+Runs done: 10
+Run finished at: February 07, 2021
+14:27:59
+Runs done: 11
+Run finished at: February 07, 2021
+14:48:17
+Runs done: 12
+Run finished at: February 07, 2021
+15:08:51
+Runs done: 13
+Run finished at: February 07, 2021
+15:27:55
+Runs done: 14
+Run finished at: February 07, 2021
+15:47:42
+Runs done: 15
+Run finished at: February 07, 2021
+16:06:46
+Runs done: 16
+Run finished at: February 07, 2021
+16:26:12
+Runs done: 17
+Run finished at: February 07, 2021
+16:45:34
+Runs done: 18
+Run finished at: February 07, 2021
+17:05:07
+Runs done: 19
+Run finished at: February 07, 2021
+17:24:59
+Runs done: 20
+Run finished at: February 07, 2021
+19:15:36
+Runs done: 1
+Run finished at: February 07, 2021
+19:34:35
+Runs done: 2
+Run finished at: February 07, 2021
+19:53:52
+Runs done: 3
+Run finished at: February 07, 2021
+20:12:38
+Runs done: 4
+Run finished at: February 07, 2021
+20:31:55
+Runs done: 5
+Run finished at: February 07, 2021
+20:51:19
+Runs done: 6
+Run finished at: February 07, 2021
+21:10:59
+Runs done: 7
+Run finished at: February 07, 2021
+21:31:01
+Runs done: 8
+Run finished at: February 07, 2021
+21:51:18
+Runs done: 9
+Run finished at: February 07, 2021
+22:10:37
+Runs done: 10
+Run finished at: February 07, 2021
+22:29:38
+Runs done: 11
+Run finished at: February 07, 2021
+22:48:53
+Runs done: 12
+Run finished at: February 07, 2021
+23:09:04
+Runs done: 13
+Run finished at: February 07, 2021
+23:28:01
+Runs done: 14
+Run finished at: February 07, 2021
+23:46:58
+Runs done: 15
+Run finished at: February 08, 2021
+00:06:24
+Runs done: 16
+Run finished at: February 08, 2021
+00:25:07
+Runs done: 17
+Run finished at: February 08, 2021
+00:43:46
+Runs done: 18
+Run finished at: February 08, 2021
+01:03:49
+Runs done: 19
+Run finished at: February 08, 2021
+01:22:13
+Runs done: 20
+Run finished at: February 08, 2021
+01:41:27
+Runs done: 21
+Run finished at: February 08, 2021
+02:01:18
+Runs done: 22
+Run finished at: February 08, 2021
+02:21:45
+Runs done: 23
+Run finished at: February 08, 2021
+02:41:13
+Runs done: 24
+Run finished at: February 08, 2021
+03:00:37
+Runs done: 25
+Run finished at: February 08, 2021
+03:20:27
+Runs done: 26
+Run finished at: February 08, 2021
+03:39:39
+Runs done: 27
+Run finished at: February 08, 2021
+03:58:48
+Runs done: 28
+Run finished at: February 08, 2021
+04:18:17
+Runs done: 29
+Run finished at: February 08, 2021
+04:37:51
+Runs done: 30
+Run finished at: February 08, 2021
+04:57:05
+Runs done: 31
+Run finished at: February 08, 2021
+05:15:49
+Runs done: 32
+Run finished at: February 08, 2021
+05:35:01
+Runs done: 33
+Run finished at: February 08, 2021
+05:54:36
+Runs done: 34
+Run finished at: February 08, 2021
+06:13:22
+Runs done: 35
+Run finished at: February 08, 2021
+06:32:48
+Runs done: 36
+Run finished at: February 08, 2021
+06:52:22
+Runs done: 37
+Run finished at: February 08, 2021
+07:11:55
+Runs done: 38
+Run finished at: February 08, 2021
+07:30:45
+Runs done: 39
+Run finished at: February 08, 2021
+07:49:43
+Runs done: 40
+Run finished at: February 08, 2021
+08:09:26
+Runs done: 41
+Run finished at: February 08, 2021
+08:29:37
+Runs done: 42
+Run finished at: February 08, 2021
+08:49:00
+Runs done: 43
+Run finished at: February 08, 2021
+09:08:05
+Runs done: 44
+Run finished at: February 08, 2021
+21:25:28
+Runs done: 1
+Run finished at: February 08, 2021
+21:44:43
+Runs done: 2
+Run finished at: February 08, 2021
+22:03:57
+Runs done: 3
+Run finished at: February 08, 2021
+22:22:50
+Runs done: 4
+Run finished at: February 08, 2021
+22:42:06
+Runs done: 5
+Run finished at: February 08, 2021
+23:01:05
+Runs done: 6
+Run finished at: February 08, 2021
+23:20:06
+Runs done: 7
+Run finished at: February 08, 2021
+23:39:18
+Runs done: 8
+Run finished at: February 08, 2021
+23:58:09
+Runs done: 9
+Run finished at: February 09, 2021
+00:17:16
+Runs done: 10
+Run finished at: February 09, 2021
+00:37:05
+Runs done: 11
+Run finished at: February 09, 2021
+00:56:11
+Runs done: 12
+Run finished at: February 09, 2021
+01:15:31
+Runs done: 13
+Run finished at: February 09, 2021
+01:35:28
+Runs done: 14
+Run finished at: February 09, 2021
+01:55:46
+Runs done: 15
+Run finished at: February 09, 2021
+02:15:50
+Runs done: 16
+Run finished at: February 09, 2021
+02:34:42
+Runs done: 17
+Run finished at: February 09, 2021
+02:53:57
+Runs done: 18
+Run finished at: February 09, 2021
+03:13:14
+Runs done: 19
+Run finished at: February 09, 2021
+03:32:51
+Runs done: 20
+Run finished at: February 09, 2021
+03:52:30
+Runs done: 21
+Run finished at: February 09, 2021
+04:12:53
+Runs done: 22
+Run finished at: February 09, 2021
+04:32:48
+Runs done: 23
+Run finished at: February 09, 2021
+04:52:15
+Runs done: 24
+Run finished at: February 09, 2021
+05:11:25
+Runs done: 25
+Run finished at: February 09, 2021
+05:30:39
+Runs done: 26
+Run finished at: February 09, 2021
+05:49:28
+Runs done: 27
+Run finished at: February 09, 2021
+06:08:54
+Runs done: 28
+Run finished at: February 09, 2021
+06:28:22
+Runs done: 29
+Run finished at: February 09, 2021
+06:46:37
+Runs done: 30
+Run finished at: February 09, 2021
+07:06:26
+Runs done: 31
+Run finished at: February 09, 2021
+07:25:31
+Runs done: 32
+Run finished at: February 09, 2021
+07:45:26
+Runs done: 33
+Run finished at: February 09, 2021
+08:04:43
+Runs done: 34
+Run finished at: February 09, 2021
+08:24:22
+Runs done: 35
+Run finished at: February 09, 2021
+08:43:22
+Runs done: 36
+Run finished at: February 09, 2021
+09:02:43
+Runs done: 37
+Run finished at: February 09, 2021
+09:22:46
+Runs done: 38
+Run finished at: February 10, 2021
+10:50:40
+Runs done: 1
+Run finished at: February 10, 2021
+11:09:27
+Runs done: 2
+Run finished at: February 10, 2021
+11:29:32
+Runs done: 3
+Run finished at: February 10, 2021
+11:49:00
+Runs done: 4
+Run finished at: February 10, 2021
+12:08:18
+Runs done: 5
+Run finished at: February 10, 2021
+12:27:57
+Runs done: 6
+Run finished at: February 10, 2021
+12:47:21
+Runs done: 7
+Run finished at: February 10, 2021
+13:07:10
+Runs done: 8
+Run finished at: February 10, 2021
+13:50:35
+Runs done: 1
+Run finished at: February 10, 2021
+14:09:28
+Runs done: 2
+Run finished at: February 10, 2021
+14:28:33
+Runs done: 3
+Run finished at: February 10, 2021
+14:47:55
+Runs done: 4
+Run finished at: February 10, 2021
+15:06:42
+Runs done: 5
+Run finished at: February 10, 2021
+15:26:02
+Runs done: 6
+Run finished at: February 10, 2021
+15:45:40
+Runs done: 7
+Run finished at: February 10, 2021
+16:05:04
+Runs done: 8
+Run finished at: February 10, 2021
+16:24:38
+Runs done: 9
+Run finished at: February 10, 2021
+16:44:03
+Runs done: 10
+Run finished at: February 10, 2021
+17:03:41
+Runs done: 11
+Run finished at: February 10, 2021
+17:23:48
+Runs done: 12
+Run finished at: February 10, 2021
+17:43:55
+Runs done: 13
+Run finished at: February 10, 2021
+18:03:53
+Runs done: 14
+Run finished at: February 10, 2021
+18:22:59
+Runs done: 15
+Run finished at: February 10, 2021
+18:42:14
+Runs done: 16
+Run finished at: February 11, 2021
+00:45:23
+Runs done: 1
+Run finished at: February 11, 2021
+01:05:24
+Runs done: 2
+Run finished at: February 11, 2021
+01:24:48
+Runs done: 3
+Run finished at: February 11, 2021
+01:44:05
+Runs done: 4
+Run finished at: February 11, 2021
+02:02:59
+Runs done: 5
+Run finished at: February 11, 2021
+02:22:14
+Runs done: 6
+Run finished at: February 11, 2021
+02:40:50
+Runs done: 7
+Run finished at: February 11, 2021
+02:59:48
+Runs done: 8
+Run finished at: February 11, 2021
+03:18:29
+Runs done: 9
+Run finished at: February 11, 2021
+03:37:43
+Runs done: 10
+Run finished at: February 11, 2021
+03:57:15
+Runs done: 11
+Run finished at: February 11, 2021
+04:16:16
+Runs done: 12
+Run finished at: February 11, 2021
+04:35:34
+Runs done: 13
+Run finished at: February 11, 2021
+04:54:17
+Runs done: 14
+Run finished at: February 11, 2021
+05:14:20
+Runs done: 15
+Run finished at: February 11, 2021
+05:33:08
+Runs done: 16
+Run finished at: February 11, 2021
+05:52:39
+Runs done: 17
+Run finished at: February 11, 2021
+06:12:30
+Runs done: 18
+Run finished at: February 11, 2021
+06:31:56
+Runs done: 19
+Run finished at: February 11, 2021
+06:50:46
+Runs done: 20
+Run finished at: February 11, 2021
+07:09:34
+Runs done: 21
+Run finished at: February 11, 2021
+07:28:42
+Runs done: 22
+Run finished at: February 11, 2021
+07:48:11
+Runs done: 23
+Run finished at: February 11, 2021
+08:07:58
+Runs done: 24
+Run finished at: February 11, 2021
+08:27:42
+Runs done: 25
+Run finished at: February 11, 2021
+08:46:28
+Runs done: 26
+Run finished at: February 11, 2021
+09:06:08
+Runs done: 27
+Run finished at: February 11, 2021
+09:24:50
+Runs done: 28
+Run finished at: February 11, 2021
+09:43:58
+Runs done: 29
+Run finished at: February 11, 2021
+10:02:54
+Runs done: 30
+Run finished at: February 11, 2021
+10:21:49
+Runs done: 31
+Run finished at: February 11, 2021
+10:41:08
+Runs done: 32
+Run finished at: February 11, 2021
+22:27:20
+Runs done: 1
+Run finished at: February 11, 2021
+22:46:10
+Runs done: 2
+Run finished at: February 11, 2021
+23:06:29
+Runs done: 3
+Run finished at: February 11, 2021
+23:25:12
+Runs done: 4
+Run finished at: February 11, 2021
+23:43:48
+Runs done: 5
+Run finished at: February 12, 2021
+00:03:16
+Runs done: 6
+Run finished at: February 12, 2021
+00:22:37
+Runs done: 7
+Run finished at: February 12, 2021
+00:41:42
+Runs done: 8
+Run finished at: February 12, 2021
+01:00:37
+Runs done: 9
+Run finished at: February 12, 2021
+01:19:57
+Runs done: 10
+Run finished at: February 12, 2021
+01:39:29
+Runs done: 11
+Run finished at: February 12, 2021
+01:59:08
+Runs done: 12
+Run finished at: February 12, 2021
+02:18:14
+Runs done: 13
+Run finished at: February 12, 2021
+02:37:53
+Runs done: 14
+Run finished at: February 12, 2021
+02:57:35
+Runs done: 15
+Run finished at: February 12, 2021
+03:17:23
+Runs done: 16
+Run finished at: February 12, 2021
+03:36:56
+Runs done: 17
+Run finished at: February 12, 2021
+03:55:52
+Runs done: 18
+Run finished at: February 12, 2021
+04:15:09
+Runs done: 19
+Run finished at: February 12, 2021
+04:34:13
+Runs done: 20
+Run finished at: February 12, 2021
+04:54:35
+Runs done: 21
+Run finished at: February 12, 2021
+05:14:21
+Runs done: 22
+Run finished at: February 12, 2021
+05:32:48
+Runs done: 23
+Run finished at: February 12, 2021
+05:51:49
+Runs done: 24
+Run finished at: February 12, 2021
+06:12:11
+Runs done: 25
+Run finished at: February 12, 2021
+06:31:26
+Runs done: 26
+Run finished at: February 12, 2021
+06:50:59
+Runs done: 27
+Run finished at: February 12, 2021
+07:09:49
+Runs done: 28
+Run finished at: February 12, 2021
+07:29:23
+Runs done: 29
+Run finished at: February 12, 2021
+07:48:52
+Runs done: 30
+Run finished at: February 12, 2021
+08:07:55
+Runs done: 31
+Run finished at: February 12, 2021
+08:26:34
+Runs done: 32
+Run finished at: February 12, 2021
+08:46:47
+Runs done: 33
+Run finished at: February 12, 2021
+09:05:18
+Runs done: 34
+Run finished at: February 12, 2021
+09:25:42
+Runs done: 35
+Run finished at: February 12, 2021
+10:45:19
+Runs done: 1
+Run finished at: February 12, 2021
+11:04:49
+Runs done: 2
+Run finished at: February 12, 2021
+11:24:07
+Runs done: 3
+Run finished at: February 12, 2021
+11:43:29
+Runs done: 4
+Run finished at: February 12, 2021
+12:02:36
+Runs done: 5
+Run finished at: February 12, 2021
+12:21:56
+Runs done: 6
+Run finished at: February 12, 2021
+12:41:52
+Runs done: 7
+Run finished at: February 12, 2021
+13:02:01
+Runs done: 8
+Run finished at: February 12, 2021
+13:37:02
+Runs done: 1
+Run finished at: February 13, 2021
+01:31:20
+Runs done: 1
+Run finished at: February 13, 2021
+01:51:06
+Runs done: 2
+Run finished at: February 13, 2021
+02:10:26
+Runs done: 3
+Run finished at: February 13, 2021
+02:29:11
+Runs done: 4
+Run finished at: February 13, 2021
+02:49:12
+Runs done: 5
+Run finished at: February 13, 2021
+03:07:40
+Runs done: 6
+Run finished at: February 13, 2021
+03:26:28
+Runs done: 7
+Run finished at: February 13, 2021
+03:45:59
+Runs done: 8
+Run finished at: February 13, 2021
+04:05:03
+Runs done: 9
+Run finished at: February 13, 2021
+04:24:18
+Runs done: 10
+Run finished at: February 13, 2021
+04:43:02
+Runs done: 11
+Run finished at: February 13, 2021
+05:02:09
+Runs done: 12
+Run finished at: February 13, 2021
+05:22:00
+Runs done: 13
+Run finished at: February 13, 2021
+05:41:20
+Runs done: 14
+Run finished at: February 13, 2021
+06:00:18
+Runs done: 15
+Run finished at: February 13, 2021
+06:18:46
+Runs done: 16
+Run finished at: February 13, 2021
+06:37:53
+Runs done: 17
+Run finished at: February 13, 2021
+06:56:46
+Runs done: 18
+Run finished at: February 13, 2021
+07:15:11
+Runs done: 19
+Run finished at: February 13, 2021
+07:33:48
+Runs done: 20
+Run finished at: February 13, 2021
+07:52:56
+Runs done: 21
+Run finished at: February 13, 2021
+08:11:59
+Runs done: 22
+Run finished at: February 13, 2021
+08:31:22
+Runs done: 23
+Run finished at: February 13, 2021
+08:50:44
+Runs done: 24
+Run finished at: February 13, 2021
+09:09:48
+Runs done: 25
+Run finished at: February 13, 2021
+09:28:49
+Runs done: 26
+Run finished at: February 13, 2021
+09:47:54
+Runs done: 27
+Run finished at: February 13, 2021
+10:07:37
+Runs done: 28
+Run finished at: February 13, 2021
+10:27:03
+Runs done: 29
+Run finished at: February 13, 2021
+10:46:14
+Runs done: 30
+Run finished at: February 13, 2021
+11:04:54
+Runs done: 31
+Run finished at: February 13, 2021
+11:24:40
+Runs done: 32
+Run finished at: February 13, 2021
+11:43:56
+Runs done: 33
+Run finished at: February 13, 2021
+12:02:34
+Runs done: 34
+Run finished at: February 13, 2021
+12:21:34
+Runs done: 35
+Run finished at: February 13, 2021
+12:40:25
+Runs done: 36
+Run finished at: February 13, 2021
+12:59:42
+Runs done: 37
+Run finished at: February 13, 2021
+13:18:14
+Runs done: 38
+Run finished at: February 14, 2021
+00:24:42
+Runs done: 1
+Run finished at: February 14, 2021
+00:43:30
+Runs done: 2
+Run finished at: February 14, 2021
+01:02:20
+Runs done: 3
+Run finished at: February 14, 2021
+01:21:12
+Runs done: 4
+Run finished at: February 14, 2021
+01:40:06
+Runs done: 5
+Run finished at: February 14, 2021
+02:00:15
+Runs done: 6
+Run finished at: February 14, 2021
+10:19:19
+Runs done: 1
+Run finished at: February 14, 2021
+10:39:08
+Runs done: 2
+Run finished at: February 14, 2021
+10:59:01
+Runs done: 3
+Run finished at: February 14, 2021
+11:18:01
+Runs done: 4
+Run finished at: February 14, 2021
+11:36:54
+Runs done: 5
+Run finished at: February 14, 2021
+11:56:51
+Runs done: 6
+Run finished at: February 14, 2021
+12:16:05
+Runs done: 7
+Run finished at: February 14, 2021
+12:35:37
+Runs done: 8
+Run finished at: February 14, 2021
+12:56:06
+Runs done: 9
+Run finished at: February 14, 2021
+13:16:04
+Runs done: 10
+Run finished at: February 14, 2021
+13:35:22
+Runs done: 11
+Run finished at: February 14, 2021
+13:53:59
+Runs done: 12
+Run finished at: February 14, 2021
+14:13:15
+Runs done: 13
+Run finished at: February 14, 2021
+14:32:49
+Runs done: 14
+Run finished at: February 14, 2021
+14:51:53
+Runs done: 15
+Run finished at: February 14, 2021
+15:11:20
+Runs done: 16
+Run finished at: February 14, 2021
+15:31:43
+Runs done: 17
+Run finished at: February 14, 2021
+15:52:10
+Runs done: 18
+Run finished at: February 14, 2021
+16:11:05
+Runs done: 19
+Run finished at: February 14, 2021
+16:31:30
+Runs done: 20
+Run finished at: February 14, 2021
+16:50:56
+Runs done: 21
+Run finished at: February 14, 2021
+17:09:29
+Runs done: 22
+Run finished at: February 14, 2021
+17:28:26
+Runs done: 23
+Run finished at: February 14, 2021
+17:48:01
+Runs done: 24
+Run finished at: February 14, 2021
+18:07:30
+Runs done: 25
+Run finished at: February 14, 2021
+20:42:45
+Runs done: 1
+Run finished at: February 14, 2021
+21:02:07
+Runs done: 2
+Run finished at: February 14, 2021
+21:21:04
+Runs done: 3
+Run finished at: February 14, 2021
+21:40:20
+Runs done: 4
+Run finished at: February 14, 2021
+21:59:39
+Runs done: 5
+Run finished at: February 14, 2021
+22:18:57
+Runs done: 6
+Run finished at: February 14, 2021
+22:38:01
+Runs done: 7
+Run finished at: February 14, 2021
+22:56:37
+Runs done: 8
+Run finished at: February 14, 2021
+23:44:12
+Runs done: 1
+Run finished at: February 15, 2021
+00:03:28
+Runs done: 2
+Run finished at: February 15, 2021
+00:23:18
+Runs done: 3
+Run finished at: February 15, 2021
+00:42:37
+Runs done: 4
+Run finished at: February 15, 2021
+01:02:15
+Runs done: 5
+Run finished at: February 15, 2021
+01:21:31
+Runs done: 6
+Run finished at: February 15, 2021
+01:41:57
+Runs done: 7
+Run finished at: February 15, 2021
+02:01:37
+Runs done: 8
+Run finished at: February 15, 2021
+02:20:51
+Runs done: 9
+Run finished at: February 15, 2021
+02:40:10
+Runs done: 10
+Run finished at: February 15, 2021
+02:59:26
+Runs done: 11
+Run finished at: February 15, 2021
+03:18:40
+Runs done: 12
+Run finished at: February 15, 2021
+03:38:20
+Runs done: 13
+Run finished at: February 15, 2021
+03:57:27
+Runs done: 14
+Run finished at: February 15, 2021
+04:17:26
+Runs done: 15
+Run finished at: February 15, 2021
+04:37:41
+Runs done: 16
+Run finished at: February 15, 2021
+04:56:41
+Runs done: 17
+Run finished at: February 15, 2021
+05:16:22
+Runs done: 18
+Run finished at: February 15, 2021
+05:36:03
+Runs done: 19
+Run finished at: February 15, 2021
+05:55:17
+Runs done: 20
+Run finished at: February 15, 2021
+06:14:11
+Runs done: 21
+Run finished at: February 15, 2021
+06:33:31
+Runs done: 22
+Run finished at: February 15, 2021
+06:53:24
+Runs done: 23
+Run finished at: February 15, 2021
+07:12:48
+Runs done: 24
+Run finished at: February 15, 2021
+07:32:18
+Runs done: 25
+Run finished at: February 15, 2021
+07:52:18
+Runs done: 26
+Run finished at: February 15, 2021
+08:11:12
+Runs done: 27
+Run finished at: February 15, 2021
+08:30:51
+Runs done: 28
+Run finished at: February 15, 2021
+08:50:21
+Runs done: 29
+Run finished at: February 15, 2021
+09:09:45
+Runs done: 30
+Run finished at: February 15, 2021
+09:29:02
+Runs done: 31
+Run finished at: February 15, 2021
+14:17:46
+Runs done: 1
+Run finished at: February 15, 2021
+14:37:35
+Runs done: 2
+Run finished at: February 15, 2021
+14:57:34
+Runs done: 3
+Run finished at: February 15, 2021
+15:16:58
+Runs done: 4
+Run finished at: February 15, 2021
+15:36:30
+Runs done: 5
+Run finished at: February 15, 2021
+19:20:01
+Runs done: 1
+Run finished at: February 15, 2021
+19:40:00
+Runs done: 2
+Run finished at: February 15, 2021
+19:59:26
+Runs done: 3
+Run finished at: February 15, 2021
+23:49:05
+Runs done: 1
+Run finished at: February 16, 2021
+00:08:45
+Runs done: 2
+Run finished at: February 16, 2021
+00:28:35
+Runs done: 3
+Run finished at: February 16, 2021
+00:47:44
+Runs done: 4
+Run finished at: February 16, 2021
+01:06:42
+Runs done: 5
+Run finished at: February 16, 2021
+01:25:32
+Runs done: 6
+Run finished at: February 16, 2021
+01:45:21
+Runs done: 7
+Run finished at: February 16, 2021
+02:05:13
+Runs done: 8
+Run finished at: February 16, 2021
+02:24:13
+Runs done: 9
+Run finished at: February 16, 2021
+02:44:31
+Runs done: 10
+Run finished at: February 16, 2021
+03:02:53
+Runs done: 11
+Run finished at: February 16, 2021
+03:22:04
+Runs done: 12
+Run finished at: February 16, 2021
+03:40:52
+Runs done: 13
+Run finished at: February 16, 2021
+04:00:14
+Runs done: 14
+Run finished at: February 16, 2021
+04:18:57
+Runs done: 15
+Run finished at: February 16, 2021
+04:39:14
+Runs done: 16
+Run finished at: February 16, 2021
+04:59:00
+Runs done: 17
+Run finished at: February 16, 2021
+05:18:05
+Runs done: 18
+Run finished at: February 16, 2021
+05:37:09
+Runs done: 19
+Run finished at: February 16, 2021
+05:56:22
+Runs done: 20
+Run finished at: February 16, 2021
+06:15:27
+Runs done: 21
+Run finished at: February 16, 2021
+06:34:18
+Runs done: 22
+Run finished at: February 16, 2021
+06:53:36
+Runs done: 23
+Run finished at: February 16, 2021
+07:12:16
+Runs done: 24
+Run finished at: February 16, 2021
+07:31:15
+Runs done: 25
+Run finished at: February 16, 2021
+07:50:29
+Runs done: 26
+Run finished at: February 16, 2021
+08:08:53
+Runs done: 27
+Run finished at: February 16, 2021
+08:29:05
+Runs done: 28
+Run finished at: February 16, 2021
+09:59:23
+Runs done: 1
+Run finished at: February 17, 2021
+00:45:10
+Runs done: 1
+Run finished at: February 17, 2021
+01:04:37
+Runs done: 2
+Run finished at: February 17, 2021
+01:24:48
+Runs done: 3
+Run finished at: February 17, 2021
+01:44:16
+Runs done: 4
+Run finished at: February 17, 2021
+02:02:58
+Runs done: 5
+Run finished at: February 17, 2021
+02:21:46
+Runs done: 6
+Run finished at: February 17, 2021
+02:40:16
+Runs done: 7
+Run finished at: February 17, 2021
+02:59:38
+Runs done: 8
+Run finished at: February 17, 2021
+03:18:26
+Runs done: 9
+Run finished at: February 17, 2021
+03:37:34
+Runs done: 10
+Run finished at: February 17, 2021
+03:57:50
+Runs done: 11
+Run finished at: February 17, 2021
+04:17:04
+Runs done: 12
+Run finished at: February 17, 2021
+04:36:30
+Runs done: 13
+Run finished at: February 17, 2021
+04:55:18
+Runs done: 14
+Run finished at: February 17, 2021
+05:15:02
+Runs done: 15
+Run finished at: February 17, 2021
+05:34:00
+Runs done: 16
+Run finished at: February 17, 2021
+05:53:30
+Runs done: 17
+Run finished at: February 17, 2021
+06:12:19
+Runs done: 18
+Run finished at: February 17, 2021
+06:31:37
+Runs done: 19
+Run finished at: February 17, 2021
+06:50:40
+Runs done: 20
+Run finished at: February 17, 2021
+07:10:25
+Runs done: 21
+Run finished at: February 17, 2021
+07:30:02
+Runs done: 22
+Run finished at: February 17, 2021
+07:49:19
+Runs done: 23
+Run finished at: February 17, 2021
+08:09:22
+Runs done: 24
+Run finished at: February 17, 2021
+08:29:03
+Runs done: 25
+Run finished at: February 17, 2021
+08:48:42
+Runs done: 26
+Run finished at: February 17, 2021
+09:07:53
+Runs done: 27
+Run finished at: February 17, 2021
+09:26:57
+Runs done: 28
+Run finished at: February 17, 2021
+09:45:19
+Runs done: 29
+Run finished at: February 17, 2021
+10:04:04
+Runs done: 30
+Run finished at: February 17, 2021
+10:23:30
+Runs done: 31
+Run finished at: February 18, 2021
+00:22:19
+Runs done: 1
+Run finished at: February 18, 2021
+00:41:34
+Runs done: 2
+Run finished at: February 18, 2021
+01:00:43
+Runs done: 3
+Run finished at: February 18, 2021
+01:20:12
+Runs done: 4
+Run finished at: February 18, 2021
+01:39:49
+Runs done: 5
+Run finished at: February 18, 2021
+01:58:59
+Runs done: 6
+Run finished at: February 18, 2021
+02:18:25
+Runs done: 7
+Run finished at: February 18, 2021
+02:37:59
+Runs done: 8
+Run finished at: February 18, 2021
+02:57:23
+Runs done: 9
+Run finished at: February 18, 2021
+03:16:51
+Runs done: 10
+Run finished at: February 18, 2021
+03:35:45
+Runs done: 11
+Run finished at: February 18, 2021
+03:55:29
+Runs done: 12
+Run finished at: February 18, 2021
+04:14:54
+Runs done: 13
+Run finished at: February 18, 2021
+04:34:59
+Runs done: 14
+Run finished at: February 18, 2021
+04:54:04
+Runs done: 15
+Run finished at: February 18, 2021
+05:13:22
+Runs done: 16
+Run finished at: February 18, 2021
+05:32:27
+Runs done: 17
+Run finished at: February 18, 2021
+05:50:51
+Runs done: 18
+Run finished at: February 18, 2021
+06:10:14
+Runs done: 19
+Run finished at: February 19, 2021
+00:35:18
+Runs done: 1
+Run finished at: February 19, 2021
+00:54:55
+Runs done: 2
+Run finished at: February 19, 2021
+01:14:27
+Runs done: 3
+Run finished at: February 19, 2021
+01:33:53
+Runs done: 4
+Run finished at: February 19, 2021
+01:53:04
+Runs done: 5
+Run finished at: February 19, 2021
+02:12:14
+Runs done: 6
+Run finished at: February 19, 2021
+02:32:31
+Runs done: 7
+Run finished at: February 19, 2021
+02:52:19
+Runs done: 8
+Run finished at: February 19, 2021
+03:10:49
+Runs done: 9
+Run finished at: February 19, 2021
+03:29:49
+Runs done: 10
+Run finished at: February 19, 2021
+03:49:28
+Runs done: 11
+Run finished at: February 19, 2021
+04:08:54
+Runs done: 12
+Run finished at: February 19, 2021
+04:28:46
+Runs done: 13
+Run finished at: February 19, 2021
+04:48:04
+Runs done: 14
+Run finished at: February 19, 2021
+05:06:48
+Runs done: 15
+Run finished at: February 19, 2021
+05:25:12
+Runs done: 16
+Run finished at: February 19, 2021
+05:44:05
+Runs done: 17
+Run finished at: February 19, 2021
+06:03:32
+Runs done: 18
+Run finished at: February 19, 2021
+06:23:34
+Runs done: 19
+Run finished at: February 19, 2021
+06:42:31
+Runs done: 20
+Run finished at: February 19, 2021
+07:02:20
+Runs done: 21
+Run finished at: February 19, 2021
+07:21:35
+Runs done: 22
+Run finished at: February 19, 2021
+07:41:46
+Runs done: 23
+Run finished at: February 19, 2021
+08:00:57
+Runs done: 24
+Run finished at: February 19, 2021
+08:20:13
+Runs done: 25
+Run finished at: February 19, 2021
+08:39:19
+Runs done: 26
+Run finished at: February 19, 2021
+08:58:40
+Runs done: 27
+Run finished at: February 19, 2021
+09:18:22
+Runs done: 28
+Run finished at: February 19, 2021
+09:37:33
+Runs done: 29
+Run finished at: February 19, 2021
+09:57:30
+Runs done: 30
+Run finished at: February 19, 2021
+10:17:06
+Runs done: 31
+Run finished at: February 20, 2021
+01:20:12
+Runs done: 1
+Run finished at: February 20, 2021
+01:38:24
+Runs done: 2
+Run finished at: February 20, 2021
+01:57:41
+Runs done: 3
+Run finished at: February 20, 2021
+02:17:20
+Runs done: 4
+Run finished at: February 20, 2021
+02:37:14
+Runs done: 5
+Run finished at: February 20, 2021
+02:56:58
+Runs done: 6
+Run finished at: February 20, 2021
+03:16:09
+Runs done: 7
+Run finished at: February 20, 2021
+03:35:33
+Runs done: 8
+Run finished at: February 20, 2021
+03:55:11
+Runs done: 9
+Run finished at: February 20, 2021
+04:14:42
+Runs done: 10
+Run finished at: February 20, 2021
+04:33:49
+Runs done: 11
+Run finished at: February 20, 2021
+04:53:40
+Runs done: 12
+Run finished at: February 20, 2021
+05:12:41
+Runs done: 13
+Run finished at: February 20, 2021
+05:32:28
+Runs done: 14
+Run finished at: February 20, 2021
+05:51:17
+Runs done: 15
+Run finished at: February 20, 2021
+06:10:25
+Runs done: 16
+Run finished at: February 20, 2021
+06:29:39
+Runs done: 17
+Run finished at: February 20, 2021
+06:48:34
+Runs done: 18
+Run finished at: February 20, 2021
+07:07:20
+Runs done: 19
+Run finished at: February 20, 2021
+07:26:22
+Runs done: 20
+Run finished at: February 20, 2021
+07:44:54
+Runs done: 21
+Run finished at: February 20, 2021
+08:04:04
+Runs done: 22
+Run finished at: February 20, 2021
+08:23:09
+Runs done: 23
+Run finished at: February 20, 2021
+08:42:12
+Runs done: 24
+Run finished at: February 20, 2021
+09:00:53
+Runs done: 25
+Run finished at: February 20, 2021
+11:31:00
+Runs done: 1
+Run finished at: February 21, 2021
+02:32:31
+Runs done: 1
+Run finished at: February 21, 2021
+02:50:56
+Runs done: 2
+Run finished at: February 21, 2021
+03:09:49
+Runs done: 3
+Run finished at: February 21, 2021
+03:28:19
+Runs done: 4
+Run finished at: February 21, 2021
+03:47:47
+Runs done: 5
+Run finished at: February 21, 2021
+04:06:50
+Runs done: 6
+Run finished at: February 21, 2021
+04:25:19
+Runs done: 7
+Run finished at: February 21, 2021
+04:43:44
+Runs done: 8
+Run finished at: February 21, 2021
+05:02:48
+Runs done: 9
+Run finished at: February 21, 2021
+05:21:49
+Runs done: 10
+Run finished at: February 21, 2021
+05:40:37
+Runs done: 11
+Run finished at: February 21, 2021
+05:59:11
+Runs done: 12
+Run finished at: February 21, 2021
+06:18:18
+Runs done: 13
+Run finished at: February 21, 2021
+06:37:14
+Runs done: 14
+Run finished at: February 21, 2021
+06:56:44
+Runs done: 15
+Run finished at: February 21, 2021
+07:15:56
+Runs done: 16
+Run finished at: February 21, 2021
+07:34:15
+Runs done: 17
+Run finished at: February 21, 2021
+07:52:49
+Runs done: 18
+Run finished at: February 21, 2021
+08:11:41
+Runs done: 19
+Run finished at: February 21, 2021
+08:31:23
+Runs done: 20
+Run finished at: February 21, 2021
+08:50:21
+Runs done: 21
+Run finished at: February 21, 2021
+09:09:28
+Runs done: 22
+Run finished at: February 22, 2021
+01:46:49
+Runs done: 1
+Run finished at: February 22, 2021
+02:06:10
+Runs done: 2
+Run finished at: February 22, 2021
+02:25:24
+Runs done: 3
+Run finished at: February 22, 2021
+02:44:05
+Runs done: 4
+Run finished at: February 22, 2021
+03:03:30
+Runs done: 5
+Run finished at: February 22, 2021
+03:22:03
+Runs done: 6
+Run finished at: February 22, 2021
+03:41:41
+Runs done: 7
+Run finished at: February 22, 2021
+04:00:28
+Runs done: 8
+Run finished at: February 22, 2021
+04:19:29
+Runs done: 9
+Run finished at: February 22, 2021
+04:38:55
+Runs done: 10
+Run finished at: February 22, 2021
+04:58:31
+Runs done: 11
+Run finished at: February 22, 2021
+05:17:50
+Runs done: 12
+Run finished at: February 22, 2021
+05:38:00
+Runs done: 13
+Run finished at: February 22, 2021
+08:47:19
+Runs done: 1
+Run finished at: February 22, 2021
+09:06:22
+Runs done: 2
+Run finished at: February 22, 2021
+09:25:18
+Runs done: 3
+Run finished at: February 22, 2021
+09:44:54
+Runs done: 4
+Run finished at: February 22, 2021
+10:04:05
+Runs done: 5
+Run finished at: February 22, 2021
+10:23:46
+Runs done: 6
+Run finished at: February 22, 2021
+10:42:26
+Runs done: 7
+Run finished at: February 22, 2021
+11:01:47
+Runs done: 8
+Run finished at: February 22, 2021
+11:20:59
+Runs done: 9
+Run finished at: February 22, 2021
+11:41:14
+Runs done: 10
+Run finished at: February 23, 2021
+02:04:30
+Runs done: 1
+Run finished at: February 23, 2021
+02:23:43
+Runs done: 2
+Run finished at: February 23, 2021
+02:42:08
+Runs done: 3
+Run finished at: February 23, 2021
+03:01:32
+Runs done: 4
+Run finished at: February 23, 2021
+03:20:54
+Runs done: 5
+Run finished at: February 23, 2021
+03:39:49
+Runs done: 6
+Run finished at: February 23, 2021
+03:59:17
+Runs done: 7
+Run finished at: February 23, 2021
+04:18:37
+Runs done: 8
+Run finished at: February 23, 2021
+04:38:19
+Runs done: 9
+Run finished at: February 23, 2021
+04:57:33
+Runs done: 10
+Run finished at: February 23, 2021
+05:16:32
+Runs done: 11
+Run finished at: February 23, 2021
+05:36:11
+Runs done: 12
+Run finished at: February 23, 2021
+05:55:36
+Runs done: 13
+Run finished at: February 23, 2021
+06:14:22
+Runs done: 14
+Run finished at: February 23, 2021
+06:34:02
+Runs done: 15
+Run finished at: February 23, 2021
+06:54:06
+Runs done: 16
+Run finished at: February 23, 2021
+07:14:02
+Runs done: 17
+Run finished at: February 23, 2021
+07:33:14
+Runs done: 18
+Run finished at: February 23, 2021
+09:50:42
+Runs done: 1
+Run finished at: February 23, 2021
+10:09:58
+Runs done: 2
+Run finished at: February 23, 2021
+10:29:25
+Runs done: 3
+Run finished at: February 23, 2021
+10:48:31
+Runs done: 4
+Run finished at: February 23, 2021
+11:07:49
+Runs done: 5
+Run finished at: February 23, 2021
+11:26:25
+Runs done: 6
+Run finished at: February 23, 2021
+11:45:40
+Runs done: 7
+Run finished at: February 24, 2021
+01:51:38
+Runs done: 1
+Run finished at: February 24, 2021
+02:10:49
+Runs done: 2
+Run finished at: February 24, 2021
+02:29:27
+Runs done: 3
+Run finished at: February 24, 2021
+02:48:41
+Runs done: 4
+Run finished at: February 24, 2021
+03:08:04
+Runs done: 5
+Run finished at: February 24, 2021
+03:28:25
+Runs done: 6
+Run finished at: February 24, 2021
+03:47:39
+Runs done: 7
+Run finished at: February 24, 2021
+04:06:49
+Runs done: 8
+Run finished at: February 24, 2021
+04:26:57
+Runs done: 9
+Run finished at: February 24, 2021
+04:46:36
+Runs done: 10
+Run finished at: February 24, 2021
+05:06:38
+Runs done: 11
+Run finished at: February 24, 2021
+05:26:20
+Runs done: 12
+Run finished at: February 24, 2021
+05:46:08
+Runs done: 13
+Run finished at: February 24, 2021
+06:05:10
+Runs done: 14
+Run finished at: February 24, 2021
+06:24:18
+Runs done: 15
+Run finished at: February 24, 2021
+06:43:18
+Runs done: 16
+Run finished at: February 24, 2021
+07:02:23
+Runs done: 17
+Run finished at: February 24, 2021
+07:22:08
+Runs done: 18
+Run finished at: February 24, 2021
+07:41:59
+Runs done: 19
+Run finished at: February 24, 2021
+08:01:33
+Runs done: 20
+Run finished at: February 24, 2021
+08:20:18
+Runs done: 21
+Run finished at: February 24, 2021
+08:40:28
+Runs done: 22
+Run finished at: February 24, 2021
+09:00:18
+Runs done: 23
+Run finished at: February 24, 2021
+09:48:25
+Runs done: 1
+Run finished at: February 24, 2021
+10:07:28
+Runs done: 2
+Run finished at: February 24, 2021
+10:26:41
+Runs done: 3
+Run finished at: February 24, 2021
+10:46:04
+Runs done: 4
+Run finished at: February 24, 2021
+11:05:54
+Runs done: 5
+Run finished at: February 24, 2021
+11:26:05
+Runs done: 6
+Run finished at: February 24, 2021
+12:01:24
+Runs done: 1
+Run finished at: February 25, 2021
+00:20:21
+Runs done: 1
+Run finished at: February 25, 2021
+00:39:28
+Runs done: 2
+Run finished at: February 25, 2021
+00:58:11
+Runs done: 3
+Run finished at: February 25, 2021
+01:17:13
+Runs done: 4
+Run finished at: February 25, 2021
+01:36:25
+Runs done: 5
+Run finished at: February 25, 2021
+01:56:33
+Runs done: 6
+Run finished at: February 25, 2021
+02:14:45
+Runs done: 7
+Run finished at: February 25, 2021
+02:33:40
+Runs done: 8
+Run finished at: February 25, 2021
+02:53:51
+Runs done: 9
+Run finished at: February 25, 2021
+03:12:22
+Runs done: 10
+Run finished at: February 25, 2021
+03:31:46
+Runs done: 11
+Run finished at: February 25, 2021
+03:50:42
+Runs done: 12
+Run finished at: February 25, 2021
+04:10:06
+Runs done: 13
+Run finished at: February 25, 2021
+04:28:26
+Runs done: 14
+Run finished at: February 25, 2021
+04:47:31
+Runs done: 15
+Run finished at: February 25, 2021
+05:05:45
+Runs done: 16
+Run finished at: February 25, 2021
+05:24:32
+Runs done: 17
+Run finished at: February 25, 2021
+05:43:02
+Runs done: 18
+Run finished at: February 25, 2021
+06:02:02
+Runs done: 19
+Run finished at: February 25, 2021
+06:20:56
+Runs done: 20
+Run finished at: February 25, 2021
+06:39:59
+Runs done: 21
+Run finished at: February 25, 2021
+06:59:21
+Runs done: 22
+Run finished at: February 25, 2021
+07:17:50
+Runs done: 23
+Run finished at: February 25, 2021
+07:37:00
+Runs done: 24
+Run finished at: February 25, 2021
+07:56:40
+Runs done: 25
+Run finished at: February 25, 2021
+08:15:13
+Runs done: 26
+Run finished at: February 25, 2021
+08:33:45
+Runs done: 27
+Run finished at: February 25, 2021
+08:52:29
+Runs done: 28
+Run finished at: February 25, 2021
+09:11:17
+Runs done: 29
+Run finished at: February 25, 2021
+09:29:56
+Runs done: 30
+Run finished at: February 25, 2021
+09:50:21
+Runs done: 31
+Run finished at: February 25, 2021
+10:08:49
+Runs done: 32
+Run finished at: February 26, 2021
+01:37:41
+Runs done: 1
+Run finished at: February 26, 2021
+01:57:11
+Runs done: 2
+Run finished at: February 26, 2021
+02:16:41
+Runs done: 3
+Run finished at: February 26, 2021
+02:35:59
+Runs done: 4
+Run finished at: February 26, 2021
+02:54:40
+Runs done: 5
+Run finished at: February 26, 2021
+03:13:22
+Runs done: 6
+Run finished at: February 26, 2021
+03:32:35
+Runs done: 7
+Run finished at: February 26, 2021
+03:52:20
+Runs done: 8
+Run finished at: February 26, 2021
+04:11:32
+Runs done: 9
+Run finished at: February 26, 2021
+04:30:34
+Runs done: 10
+Run finished at: February 26, 2021
+04:49:01
+Runs done: 11
+Run finished at: February 26, 2021
+05:07:10
+Runs done: 12
+Run finished at: February 26, 2021
+05:26:05
+Runs done: 13
+Run finished at: February 26, 2021
+05:45:13
+Runs done: 14
+Run finished at: February 26, 2021
+06:03:39
+Runs done: 15
+Run finished at: February 26, 2021
+06:22:48
+Runs done: 16
+Run finished at: February 26, 2021
+06:40:53
+Runs done: 17
+Run finished at: February 26, 2021
+06:59:20
+Runs done: 18
+Run finished at: February 26, 2021
+07:17:39
+Runs done: 19
+Run finished at: February 26, 2021
+07:37:02
+Runs done: 20
+Run finished at: February 26, 2021
+07:55:56
+Runs done: 21
+Run finished at: February 26, 2021
+08:14:13
+Runs done: 22
+Run finished at: February 26, 2021
+08:33:40
+Runs done: 23
+Run finished at: February 26, 2021
+08:53:15
+Runs done: 24
+Run finished at: February 26, 2021
+09:11:56
+Runs done: 25
+Run finished at: February 26, 2021
+09:31:02
+Runs done: 26
+Run finished at: February 26, 2021
+09:49:59
+Runs done: 27
+Run finished at: February 26, 2021
+10:08:50
+Runs done: 28
+Run finished at: February 26, 2021
+10:28:00
+Runs done: 29
+Run finished at: February 27, 2021
+01:44:44
+Runs done: 1
+Run finished at: February 27, 2021
+02:03:00
+Runs done: 2
+Run finished at: February 27, 2021
+02:21:17
+Runs done: 3
+Run finished at: February 27, 2021
+02:39:27
+Runs done: 4
+Run finished at: February 27, 2021
+02:59:58
+Runs done: 5
+Run finished at: February 27, 2021
+03:18:50
+Runs done: 6
+Run finished at: February 27, 2021
+03:37:00
+Runs done: 7
+Run finished at: February 27, 2021
+03:57:21
+Runs done: 8
+Run finished at: February 27, 2021
+04:16:29
+Runs done: 9
+Run finished at: February 27, 2021
+04:34:33
+Runs done: 10
+Run finished at: February 27, 2021
+04:53:30
+Runs done: 11
+Run finished at: February 27, 2021
+05:13:07
+Runs done: 12
+Run finished at: February 27, 2021
+05:31:40
+Runs done: 13
+Run finished at: February 27, 2021
+05:50:55
+Runs done: 14
+Run finished at: February 27, 2021
+06:09:41
+Runs done: 15
+Run finished at: February 27, 2021
+06:28:37
+Runs done: 16
+Run finished at: February 27, 2021
+06:47:31
+Runs done: 17
+Run finished at: February 27, 2021
+07:05:43
+Runs done: 18
+Run finished at: February 27, 2021
+07:24:56
+Runs done: 19
+Run finished at: February 27, 2021
+07:44:57
+Runs done: 20
+Run finished at: February 27, 2021
+08:03:29
+Runs done: 21
+Run finished at: February 27, 2021
+08:22:58
+Runs done: 22
+Run finished at: February 27, 2021
+08:41:53
+Runs done: 23
+Run finished at: February 27, 2021
+09:00:52
+Runs done: 24
+Run finished at: February 27, 2021
+09:20:05
+Runs done: 25
+Run finished at: February 27, 2021
+09:38:45
+Runs done: 26
+Run finished at: February 27, 2021
+09:57:31
+Runs done: 27
+Run finished at: February 27, 2021
+10:16:01
+Runs done: 28
+Run finished at: February 27, 2021
+10:34:19
+Runs done: 29
+Run finished at: February 27, 2021
+11:08:29
+Runs done: 1
+Run finished at: February 27, 2021
+11:26:33
+Runs done: 2
+Run finished at: February 27, 2021
+11:45:00
+Runs done: 3
+Run finished at: February 28, 2021
+02:18:05
+Runs done: 1
+Run finished at: February 28, 2021
+02:37:25
+Runs done: 2
+Run finished at: February 28, 2021
+02:56:51
+Runs done: 3
+Run finished at: February 28, 2021
+03:16:24
+Runs done: 4
+Run finished at: February 28, 2021
+03:36:18
+Runs done: 5
+Run finished at: February 28, 2021
+03:54:30
+Runs done: 6
+Run finished at: February 28, 2021
+04:12:57
+Runs done: 7
+Run finished at: February 28, 2021
+04:31:32
+Runs done: 8
+Run finished at: February 28, 2021
+04:50:39
+Runs done: 9
+Run finished at: February 28, 2021
+05:10:08
+Runs done: 10
+Run finished at: February 28, 2021
+05:28:55
+Runs done: 11
+Run finished at: February 28, 2021
+05:48:59
+Runs done: 12
+Run finished at: February 28, 2021
+06:06:54
+Runs done: 13
+Run finished at: February 28, 2021
+06:25:57
+Runs done: 14
+Run finished at: February 28, 2021
+06:45:05
+Runs done: 15
+Run finished at: February 28, 2021
+07:03:16
+Runs done: 16
+Run finished at: February 28, 2021
+07:23:17
+Runs done: 17
+Run finished at: February 28, 2021
+07:41:38
+Runs done: 18
+Run finished at: February 28, 2021
+08:01:15
+Runs done: 19
+Run finished at: February 28, 2021
+08:19:22
+Runs done: 20
+Run finished at: February 28, 2021
+08:38:30
+Runs done: 21
+Run finished at: February 28, 2021
+08:56:48
+Runs done: 22
+Run finished at: February 28, 2021
+09:16:09
+Runs done: 23
+Run finished at: February 28, 2021
+09:35:11
+Runs done: 24
+Run finished at: February 28, 2021
+09:53:50
+Runs done: 25
+Run finished at: February 28, 2021
+10:11:50
+Runs done: 26
+Run finished at: February 28, 2021
+10:30:09
+Runs done: 27
+Run finished at: February 28, 2021
+10:48:58
+Runs done: 28
+Run finished at: February 28, 2021
+11:07:16
+Runs done: 29
+Run finished at: February 28, 2021
+11:26:26
+Runs done: 30
+Run finished at: February 28, 2021
+11:46:00
+Runs done: 31
+Run finished at: February 28, 2021
+12:05:05
+Runs done: 32
+Run finished at: February 28, 2021
+12:23:47
+Runs done: 33
+Run finished at: March 01, 2021
+02:27:15
+Runs done: 1
+Run finished at: March 01, 2021
+02:45:49
+Runs done: 2
+Run finished at: March 01, 2021
+03:04:50
+Runs done: 3
+Run finished at: March 01, 2021
+03:23:16
+Runs done: 4
+Run finished at: March 01, 2021
+03:42:38
+Runs done: 5
+Run finished at: March 01, 2021
+04:01:48
+Runs done: 6
+Run finished at: March 01, 2021
+04:21:28
+Runs done: 7
+Run finished at: March 01, 2021
+04:40:06
+Runs done: 8
+Run finished at: March 01, 2021
+10:54:04
+Runs done: 1
+Run finished at: March 01, 2021
+11:13:40
+Runs done: 2
+Run finished at: March 02, 2021
+01:04:11
+Runs done: 1
+Run finished at: March 02, 2021
+01:22:21
+Runs done: 2
+Run finished at: March 02, 2021
+01:41:37
+Runs done: 3
+Run finished at: March 02, 2021
+02:01:07
+Runs done: 4
+Run finished at: March 02, 2021
+02:20:30
+Runs done: 5
+Run finished at: March 02, 2021
+02:40:19
+Runs done: 6
+Run finished at: March 02, 2021
+03:00:17
+Runs done: 7
+Run finished at: March 02, 2021
+03:20:09
+Runs done: 8
+Run finished at: March 02, 2021
+03:39:56
+Runs done: 9
+Run finished at: March 02, 2021
+03:59:45
+Runs done: 10
+Run finished at: March 02, 2021
+04:19:33
+Runs done: 11
+Run finished at: March 02, 2021
+04:39:28
+Runs done: 12
+Run finished at: March 02, 2021
+04:59:25
+Runs done: 13
+Run finished at: March 02, 2021
+05:19:28
+Runs done: 14
+Run finished at: March 02, 2021
+05:39:07
+Runs done: 15
+Run finished at: March 02, 2021
+05:59:01
+Runs done: 16
+Run finished at: March 02, 2021
+06:18:24
+Runs done: 17
+Run finished at: March 02, 2021
+06:37:54
+Runs done: 18
+Run finished at: March 02, 2021
+06:57:27
+Runs done: 19
+Run finished at: March 02, 2021
+07:17:44
+Runs done: 20
+Run finished at: March 02, 2021
+07:37:15
+Runs done: 21
+Run finished at: March 02, 2021
+07:57:11
+Runs done: 22
+Run finished at: March 02, 2021
+08:17:32
+Runs done: 23
+Run finished at: March 02, 2021
+08:37:29
+Runs done: 24
+Run finished at: March 02, 2021
+08:57:56
+Runs done: 25
+Run finished at: March 02, 2021
+09:17:31
+Runs done: 26
+Run finished at: March 03, 2021
+00:57:21
+Runs done: 1
+Run finished at: March 05, 2021
+01:54:49
+Runs done: 1
+Run finished at: March 05, 2021
+02:14:20
+Runs done: 2
+Run finished at: March 05, 2021
+02:33:57
+Runs done: 3
+Run finished at: March 05, 2021
+02:54:03
+Runs done: 4
+Run finished at: March 05, 2021
+03:13:02
+Runs done: 5
+Run finished at: March 05, 2021
+11:17:32
+Runs done: 1
+Run finished at: March 05, 2021
+11:37:20
+Runs done: 2
+Run finished at: March 06, 2021
+03:17:06
+Runs done: 1
+Run finished at: March 11, 2021
+23:24:33
+Runs done: 1
+Run finished at: March 11, 2021
+23:42:44
+Runs done: 2
+Run finished at: March 12, 2021
+00:01:43
+Runs done: 3
+Run finished at: March 12, 2021
+00:22:19
+Runs done: 4
+Run finished at: March 12, 2021
+00:42:13
+Runs done: 5
+Run finished at: March 12, 2021
+01:01:11
+Runs done: 6
+Run finished at: March 12, 2021
+01:20:19
+Runs done: 7
+Run finished at: March 12, 2021
+01:39:46
+Runs done: 8
+Run finished at: March 12, 2021
+01:59:52
+Runs done: 9
+Run finished at: March 12, 2021
+02:19:02
+Runs done: 10
+Run finished at: March 12, 2021
+02:39:04
+Runs done: 11
+Run finished at: March 12, 2021
+02:58:23
+Runs done: 12
+Run finished at: March 12, 2021
+03:17:39
+Runs done: 13
+Run finished at: March 12, 2021
+03:37:17
+Runs done: 14
+Run finished at: March 12, 2021
+03:56:48
+Runs done: 15
+Run finished at: March 12, 2021
+04:16:09
+Runs done: 16
+Run finished at: March 12, 2021
+04:35:12
+Runs done: 17
+Run finished at: March 12, 2021
+04:55:28
+Runs done: 18
+Run finished at: March 12, 2021
+05:15:25
+Runs done: 19
+Run finished at: March 12, 2021
+05:35:37
+Runs done: 20
+Run finished at: March 12, 2021
+05:55:06
+Runs done: 21
+Run finished at: March 12, 2021
+06:13:59
+Runs done: 22
+Run finished at: June 15, 2021
+00:48:37
+Runs done: 1
+Run finished at: June 15, 2021
+01:08:37
+Runs done: 2
+Run finished at: June 15, 2021
+01:38:15
+Runs done: 1
+Run finished at: June 15, 2021
+02:07:18
+Runs done: 1
+Run finished at: June 15, 2021
+02:12:30
+Runs done: 1
+Run finished at: June 15, 2021
+02:33:55
+Runs done: 1
+Run finished at: June 15, 2021
+02:54:28
+Runs done: 2
+Run finished at: June 15, 2021
+03:25:14
+Runs done: 1
+Run finished at: June 15, 2021
+03:44:54
+Runs done: 2
+Run finished at: June 15, 2021
+04:04:11
+Runs done: 3
+Run finished at: June 15, 2021
+04:23:31
+Runs done: 4
+Run finished at: June 15, 2021
+04:42:27
+Runs done: 5
+Run finished at: June 15, 2021
+05:01:59
+Runs done: 6
+Run finished at: June 15, 2021
+05:22:16
+Runs done: 7
+Run finished at: June 15, 2021
+05:42:11
+Runs done: 8
+Run finished at: June 15, 2021
+06:01:19
+Runs done: 9
+Run finished at: June 15, 2021
+06:20:03
+Runs done: 10
+Run finished at: June 15, 2021
+06:39:25
+Runs done: 11
+Run finished at: June 15, 2021
+06:58:56
+Runs done: 12
+Run finished at: June 15, 2021
+07:28:58
+Runs done: 1
+Run finished at: June 15, 2021
+07:48:25
+Runs done: 2
+Run finished at: June 15, 2021
+08:07:55
+Runs done: 3
+Run finished at: June 15, 2021
+08:27:37
+Runs done: 4
+Run finished at: June 15, 2021
+08:47:00
+Runs done: 5
+Run finished at: June 15, 2021
+09:07:14
+Runs done: 6
+Run finished at: June 15, 2021
+09:27:22
+Runs done: 7
+Run finished at: June 15, 2021
+09:47:33
+Runs done: 8
+Run finished at: June 15, 2021
+10:07:58
+Runs done: 9
+Run finished at: June 15, 2021
+10:27:40
+Runs done: 10
+Run finished at: June 16, 2021
+06:28:05
+Runs done: 1
+Run finished at: June 16, 2021
+06:47:43
+Runs done: 2
+Run finished at: June 16, 2021
+07:07:21
+Runs done: 3
+Run finished at: June 16, 2021
+07:27:00
+Runs done: 4
+Run finished at: June 16, 2021
+07:47:15
+Runs done: 5
+Run finished at: June 16, 2021
+08:06:51
+Runs done: 6
+Run finished at: June 16, 2021
+08:27:03
+Runs done: 7
+Run finished at: June 16, 2021
+08:47:35
+Runs done: 8
+Run finished at: June 16, 2021
+09:07:50
+Runs done: 9
+Run finished at: June 16, 2021
+09:27:03
+Runs done: 10
+Run finished at: June 16, 2021
+09:46:37
+Runs done: 11
+Run finished at: June 16, 2021
+10:06:39
+Runs done: 12
+Run finished at: June 16, 2021
+10:26:23
+Runs done: 13
+Run finished at: June 16, 2021
+10:46:50
+Runs done: 14
+Run finished at: June 16, 2021
+11:06:23
+Runs done: 15
+Run finished at: June 16, 2021
+11:25:52
+Runs done: 16
+Run finished at: June 16, 2021
+11:45:29
+Runs done: 17
+Run finished at: June 16, 2021
+12:04:56
+Runs done: 18
+Run finished at: June 16, 2021
+12:24:29
+Runs done: 19
+Run finished at: June 16, 2021
+12:43:49
+Runs done: 20
+Run finished at: June 16, 2021
+13:03:53
+Runs done: 21
+Run finished at: June 16, 2021
+13:22:50
+Runs done: 22
+Run finished at: June 16, 2021
+16:56:50
+Run finished at: June 16, 2021
+17:44:42
+Runs done: 1
+Run finished at: June 16, 2021
+18:05:00
+Runs done: 2
+Run finished at: June 16, 2021
+18:24:49
+Runs done: 3
+Run finished at: June 16, 2021
+18:44:07
+Runs done: 4
+Run finished at: June 16, 2021
+19:04:36
+Runs done: 5
+Run finished at: June 17, 2021
+10:06:51
+Runs done: 1
+Run finished at: June 17, 2021
+10:26:30
+Runs done: 2
+Run finished at: June 17, 2021
+10:46:32
+Runs done: 3
+Run finished at: June 17, 2021
+11:06:16
+Runs done: 4
+Run finished at: June 17, 2021
+11:26:22
+Runs done: 5
+Run finished at: June 17, 2021
+11:45:50
+Runs done: 6
+Run finished at: June 17, 2021
+12:05:35
+Runs done: 7
+Run finished at: June 17, 2021
+12:25:18
+Runs done: 8
+Run finished at: June 17, 2021
+12:44:58
+Runs done: 9
+Run finished at: June 17, 2021
+13:05:36
+Runs done: 10
+Run finished at: June 17, 2021
+13:26:39
+Runs done: 1
+Run finished at: June 17, 2021
+13:46:30
+Runs done: 2
+Run finished at: June 17, 2021
+14:06:47
+Runs done: 3
+Run finished at: June 17, 2021
+14:26:32
+Runs done: 4
+Run finished at: June 17, 2021
+14:46:00
+Runs done: 5
+Run finished at: June 17, 2021
+15:05:39
+Runs done: 6
+Run finished at: June 17, 2021
+15:25:51
+Runs done: 7
+Run finished at: June 17, 2021
+15:45:46
+Runs done: 8
+Run finished at: June 17, 2021
+16:05:49
+Runs done: 9
+Run finished at: June 17, 2021
+16:25:21
+Runs done: 10
+Run finished at: June 17, 2021
+16:45:28
+Runs done: 11
+Run finished at: June 17, 2021
+17:05:00
+Runs done: 12
+Run finished at: June 17, 2021
+17:25:28
+Runs done: 13
+Run finished at: June 17, 2021
+17:45:29
+Runs done: 14
+Run finished at: June 17, 2021
+18:05:37
+Runs done: 15
+Run finished at: June 17, 2021
+18:25:49
+Runs done: 16
+Run finished at: June 17, 2021
+18:45:06
+Runs done: 17
+Run finished at: June 17, 2021
+19:04:57
+Runs done: 18
+Run finished at: June 17, 2021
+19:25:23
+Runs done: 19
+Run finished at: June 17, 2021
+19:45:11
+Runs done: 20
+Run finished at: June 18, 2021
+07:34:41
+Runs done: 1
+Run finished at: June 18, 2021
+07:54:57
+Runs done: 2
+Run finished at: June 18, 2021
+08:14:35
+Runs done: 3
+Run finished at: June 18, 2021
+08:34:16
+Runs done: 4
+Run finished at: June 18, 2021
+08:54:23
+Runs done: 5
+Run finished at: June 18, 2021
+09:14:49
+Runs done: 6
+Run finished at: June 18, 2021
+09:34:37
+Runs done: 7
+Run finished at: June 18, 2021
+09:53:51
+Runs done: 8
+Run finished at: June 18, 2021
+10:13:09
+Runs done: 9
+Run finished at: June 18, 2021
+10:32:22
+Runs done: 10
+Run finished at: June 18, 2021
+10:51:49
+Runs done: 11
+Run finished at: June 18, 2021
+11:21:17
+Runs done: 1
+Run finished at: June 18, 2021
+11:41:01
+Runs done: 2
+Run finished at: June 18, 2021
+12:00:16
+Runs done: 3
+Run finished at: June 18, 2021
+12:19:40
+Runs done: 4
+Run finished at: June 18, 2021
+12:39:50
+Runs done: 5
+Run finished at: June 18, 2021
+13:15:11
+Runs done: 1
+Run finished at: June 18, 2021
+13:35:21
+Runs done: 2
+Run finished at: June 18, 2021
+14:25:51
+Runs done: 1
+Run finished at: June 18, 2021
+14:46:00
+Runs done: 2
+Run finished at: June 18, 2021
+15:58:17
+Runs done: 1
+Run finished at: June 18, 2021
+16:18:28
+Runs done: 2
+Run finished at: June 18, 2021
+16:38:21
+Runs done: 3
+Run finished at: June 18, 2021
+16:59:01
+Runs done: 4
+Run finished at: June 18, 2021
+17:18:42
+Runs done: 5
+Run finished at: June 18, 2021
+17:38:28
+Runs done: 6
+Run finished at: June 19, 2021
+10:19:31
+Runs done: 1
+Run finished at: June 19, 2021
+10:39:04
+Runs done: 2
+Run finished at: June 19, 2021
+10:58:47
+Runs done: 3
+Run finished at: June 19, 2021
+11:18:55
+Runs done: 4
+Run finished at: June 19, 2021
+11:39:09
+Runs done: 5
+Run finished at: June 19, 2021
+11:58:36
+Runs done: 6
+Run finished at: June 19, 2021
+12:18:07
+Runs done: 7
+Run finished at: June 19, 2021
+12:38:15
+Runs done: 8
+Run finished at: June 19, 2021
+12:57:58
+Runs done: 9
+Run finished at: June 19, 2021
+13:18:35
+Runs done: 10
+Run finished at: June 19, 2021
+13:38:00
+Runs done: 11
+Run finished at: June 19, 2021
+13:57:28
+Runs done: 12
+Run finished at: June 19, 2021
+14:16:48
+Runs done: 13
+Run finished at: June 19, 2021
+14:36:35
+Runs done: 14
+Run finished at: June 19, 2021
+14:56:05
+Runs done: 15
+Run finished at: June 19, 2021
+15:16:01
+Runs done: 16
+Run finished at: June 19, 2021
+15:36:26
+Runs done: 17
+Run finished at: June 19, 2021
+15:56:35
+Runs done: 18
+Run finished at: June 19, 2021
+16:16:01
+Runs done: 19
+Run finished at: June 19, 2021
+16:36:39
+Runs done: 20
+Run finished at: June 19, 2021
+16:55:52
+Runs done: 21
+Run finished at: June 19, 2021
+17:16:16
+Runs done: 22
+Run finished at: June 19, 2021
+17:36:29
+Runs done: 23
+Run finished at: June 19, 2021
+17:56:11
+Runs done: 24
+Run finished at: June 19, 2021
+18:15:36
+Runs done: 25
+Run finished at: June 19, 2021
+18:35:44
+Runs done: 26
+Run finished at: June 19, 2021
+18:55:08
+Runs done: 27
+Run finished at: June 19, 2021
+19:15:30
+Runs done: 28
+Run finished at: June 19, 2021
+19:34:41
+Runs done: 29
+Run finished at: June 19, 2021
+19:54:52
+Runs done: 30
+Run finished at: June 20, 2021
+11:20:16
+Runs done: 1
+Run finished at: June 20, 2021
+11:40:04
+Runs done: 2
+Run finished at: June 20, 2021
+12:00:12
+Runs done: 3
+Run finished at: June 20, 2021
+12:20:46
+Runs done: 4
+Run finished at: June 20, 2021
+12:40:59
+Runs done: 5
+Run finished at: June 20, 2021
+13:01:39
+Runs done: 6
+Run finished at: June 20, 2021
+13:20:59
+Runs done: 7
+Run finished at: June 20, 2021
+13:39:40
+Runs done: 8
+Run finished at: June 20, 2021
+13:59:59
+Runs done: 9
+Run finished at: June 20, 2021
+14:19:28
+Runs done: 10
+Run finished at: June 20, 2021
+14:38:45
+Runs done: 11
+Run finished at: June 20, 2021
+14:58:47
+Runs done: 12
+Run finished at: June 20, 2021
+15:19:13
+Runs done: 13
+Run finished at: June 20, 2021
+15:39:02
+Runs done: 14
+Run finished at: June 20, 2021
+15:58:56
+Runs done: 15
+Run finished at: June 20, 2021
+16:19:08
+Runs done: 16
+Run finished at: June 20, 2021
+17:07:24
+Runs done: 1
+Run finished at: June 20, 2021
+17:27:11
+Runs done: 2
+Run finished at: June 20, 2021
+17:47:32
+Runs done: 3
+Run finished at: June 20, 2021
+18:05:57
+Runs done: 4
+Run finished at: June 20, 2021
+18:26:08
+Runs done: 5
+Run finished at: June 20, 2021
+20:59:00
+Runs done: 1
+Run finished at: June 20, 2021
+21:18:47
+Runs done: 2
+Run finished at: June 20, 2021
+21:39:04
+Runs done: 3
+Run finished at: June 20, 2021
+21:58:25
+Runs done: 4
+Run finished at: June 20, 2021
+22:18:30
+Runs done: 5
+Run finished at: June 20, 2021
+22:38:42
+Runs done: 6
+Run finished at: June 21, 2021
+09:30:30
+Runs done: 1
+Run finished at: June 21, 2021
+09:50:17
+Runs done: 2
+Run finished at: June 21, 2021
+10:09:36
+Runs done: 3
+Run finished at: June 21, 2021
+10:29:25
+Runs done: 4
+Run finished at: June 21, 2021
+10:49:27
+Runs done: 5
+Run finished at: June 21, 2021
+11:09:14
+Runs done: 6
+Run finished at: June 21, 2021
+11:29:32
+Runs done: 7
+Run finished at: June 21, 2021
+11:50:13
+Runs done: 8
+Run finished at: June 21, 2021
+12:09:18
+Runs done: 9
+Run finished at: June 21, 2021
+12:28:42
+Runs done: 10
+Run finished at: June 21, 2021
+12:48:07
+Runs done: 11
+Run finished at: June 21, 2021
+13:08:22
+Runs done: 12
+Run finished at: June 21, 2021
+13:27:45
+Runs done: 13
+Run finished at: June 21, 2021
+13:48:05
+Runs done: 14
+Run finished at: June 21, 2021
+14:07:40
+Runs done: 15
+Run finished at: June 21, 2021
+14:26:45
+Runs done: 16
+Run finished at: June 21, 2021
+14:46:04
+Runs done: 17
+Run finished at: June 21, 2021
+15:06:15
+Runs done: 18
+Run finished at: June 21, 2021
+15:25:54
+Runs done: 19
+Run finished at: June 21, 2021
+15:46:05
+Runs done: 20
+Run finished at: June 21, 2021
+16:05:48
+Runs done: 21
+Run finished at: June 21, 2021
+16:25:41
+Runs done: 22
+Run finished at: June 21, 2021
+16:46:17
+Runs done: 23
+Run finished at: June 21, 2021
+17:05:55
+Runs done: 24
+Run finished at: June 21, 2021
+17:26:06
+Runs done: 25
+Run finished at: June 21, 2021
+17:46:01
+Runs done: 26
+Run finished at: June 21, 2021
+18:06:12
+Runs done: 27
+Run finished at: June 22, 2021
+13:03:05
+Runs done: 1
+Run finished at: June 22, 2021
+13:23:16
+Runs done: 2
+Run finished at: June 22, 2021
+13:43:25
+Runs done: 3
+Run finished at: June 22, 2021
+14:04:00
+Runs done: 4
+Run finished at: June 22, 2021
+14:24:12
+Runs done: 5
+Run finished at: June 22, 2021
+14:44:22
+Runs done: 6
+Run finished at: June 22, 2021
+15:15:00
+Runs done: 1
+Run finished at: June 22, 2021
+15:35:07
+Runs done: 2
+Run finished at: June 22, 2021
+15:55:11
+Runs done: 3
+Run finished at: June 22, 2021
+16:15:48
+Runs done: 4
+Run finished at: June 22, 2021
+16:36:30
+Runs done: 5
+Run finished at: June 22, 2021
+16:56:51
+Runs done: 6
+Run finished at: June 22, 2021
+17:17:02
+Runs done: 7
+Run finished at: June 22, 2021
+17:37:35
+Runs done: 8
+Run finished at: June 22, 2021
+17:57:35
+Runs done: 9
+Run finished at: June 22, 2021
+18:17:46
+Runs done: 10
+Run finished at: June 22, 2021
+18:37:58
+Runs done: 11
+Run finished at: June 22, 2021
+18:58:07
+Runs done: 12
+Run finished at: June 22, 2021
+22:11:34
+Runs done: 1
+Run finished at: June 22, 2021
+22:31:47
+Runs done: 2
+Run finished at: June 22, 2021
+22:51:52
+Runs done: 3
+Run finished at: June 22, 2021
+23:11:51
+Runs done: 4
+Run finished at: June 22, 2021
+23:32:23
+Runs done: 5
+Run finished at: June 22, 2021
+23:52:41
+Runs done: 6
+Run finished at: June 23, 2021
+00:13:18
+Runs done: 7
+Run finished at: June 23, 2021
+00:33:55
+Runs done: 8
+Run finished at: June 23, 2021
+00:54:01
+Runs done: 9
+Run finished at: June 23, 2021
+01:14:24
+Runs done: 10
+Run finished at: June 23, 2021
+01:59:46
+Runs done: 1
+Run finished at: June 23, 2021
+02:20:16
+Runs done: 2
+Run finished at: June 23, 2021
+02:39:46
+Runs done: 3
+Run finished at: June 23, 2021
+02:59:57
+Runs done: 4
+Run finished at: June 23, 2021
+03:20:30
+Runs done: 5
+Run finished at: June 23, 2021
+03:40:27
+Runs done: 6
+Run finished at: June 23, 2021
+04:00:36
+Runs done: 7
+Run finished at: June 23, 2021
+04:20:48
+Runs done: 8
+Run finished at: June 23, 2021
+04:40:46
+Runs done: 9
+Run finished at: June 23, 2021
+05:16:06
+Runs done: 1
+Run finished at: June 23, 2021
+05:36:30
+Runs done: 2
+Run finished at: June 23, 2021
+05:56:53
+Runs done: 3
+Run finished at: June 23, 2021
+06:32:29
+Runs done: 1
+Run finished at: June 23, 2021
+06:52:40
+Runs done: 2
+Run finished at: June 23, 2021
+07:12:41
+Runs done: 3
+Run finished at: June 23, 2021
+07:32:52
+Runs done: 4
+Run finished at: June 23, 2021
+07:53:03
+Runs done: 5
+Run finished at: June 23, 2021
+08:13:14
+Runs done: 6
+Run finished at: June 23, 2021
+08:32:38
+Runs done: 7
+Run finished at: June 23, 2021
+08:52:49
+Runs done: 8
+Run finished at: June 23, 2021
+09:12:38
+Runs done: 9
+Run finished at: June 23, 2021
+09:32:26
+Runs done: 10
+Run finished at: June 23, 2021
+09:52:37
+Runs done: 11
+Run finished at: June 23, 2021
+10:12:35
+Runs done: 12
+Run finished at: June 23, 2021
+10:33:09
+Runs done: 13
+Run finished at: June 23, 2021
+10:53:44
+Runs done: 14
+Run finished at: June 23, 2021
+11:13:55
+Runs done: 15
+Run finished at: June 24, 2021
+10:30:27
+Runs done: 1
+Run finished at: June 24, 2021
+10:50:07
+Runs done: 2
+Run finished at: June 24, 2021
+11:09:42
+Runs done: 3
+Run finished at: June 24, 2021
+11:29:41
+Runs done: 4
+Run finished at: June 24, 2021
+11:49:54
+Runs done: 5
+Run finished at: June 24, 2021
+12:09:38
+Runs done: 6
+Run finished at: June 24, 2021
+12:29:12
+Runs done: 7
+Run finished at: June 24, 2021
+12:49:20
+Runs done: 8
+Run finished at: June 24, 2021
+13:08:40
+Runs done: 9
+Run finished at: June 24, 2021
+13:28:27
+Runs done: 10
+Run finished at: June 24, 2021
+13:47:40
+Runs done: 11
+Run finished at: June 24, 2021
+14:08:09
+Runs done: 12
+Run finished at: June 24, 2021
+14:28:42
+Runs done: 13
+Run finished at: June 24, 2021
+14:48:31
+Runs done: 14
+Run finished at: June 24, 2021
+15:08:51
+Runs done: 15
+Run finished at: June 24, 2021
+15:28:35
+Runs done: 16
+Run finished at: June 24, 2021
+15:47:52
+Runs done: 17
+Run finished at: June 24, 2021
+16:07:46
+Runs done: 18
+Run finished at: June 24, 2021
+16:27:58
+Runs done: 19
+Run finished at: June 24, 2021
+16:47:28
+Runs done: 20
+Run finished at: June 24, 2021
+17:06:57
+Runs done: 21
+Run finished at: June 24, 2021
+17:27:12
+Runs done: 22
+Run finished at: June 24, 2021
+17:47:36
+Runs done: 23
+Run finished at: June 24, 2021
+18:06:58
+Runs done: 24
+Run finished at: June 24, 2021
+18:26:45
+Runs done: 25
+Run finished at: June 24, 2021
+18:46:26
+Runs done: 26
+Run finished at: June 24, 2021
+19:06:01
+Runs done: 27
+Run finished at: June 24, 2021
+19:26:12
+Runs done: 28
+Run finished at: June 24, 2021
+19:46:53
+Runs done: 29
+Run finished at: June 24, 2021
+20:07:06
+Runs done: 30
+Run finished at: June 25, 2021
+10:42:12
+Runs done: 1
+Run finished at: June 25, 2021
+11:01:51
+Runs done: 2
+Run finished at: June 25, 2021
+11:20:52
+Runs done: 3
+Run finished at: June 25, 2021
+11:41:06
+Runs done: 4
+Run finished at: June 25, 2021
+12:01:35
+Runs done: 5
+Run finished at: June 25, 2021
+12:21:19
+Runs done: 6
+Run finished at: June 25, 2021
+12:41:07
+Runs done: 7
+Run finished at: June 25, 2021
+13:01:29
+Runs done: 8
+Run finished at: June 25, 2021
+13:20:44
+Runs done: 9
+Run finished at: June 25, 2021
+13:40:04
+Runs done: 10
+Run finished at: June 25, 2021
+13:59:56
+Runs done: 11
+Run finished at: June 25, 2021
+14:19:34
+Runs done: 12
+Run finished at: June 25, 2021
+14:40:00
+Runs done: 13
+Run finished at: June 25, 2021
+14:59:30
+Runs done: 14
+Run finished at: June 25, 2021
+15:18:43
+Runs done: 15
+Run finished at: June 25, 2021
+15:38:22
+Runs done: 16
+Run finished at: June 25, 2021
+15:58:38
+Runs done: 17
+Run finished at: June 25, 2021
+16:19:17
+Runs done: 18
+Run finished at: June 25, 2021
+16:39:08
+Runs done: 19
+Run finished at: June 25, 2021
+16:58:36
+Runs done: 20
+Run finished at: June 25, 2021
+17:18:49
+Runs done: 21
+Run finished at: June 25, 2021
+17:38:20
+Runs done: 22
+Run finished at: June 25, 2021
+17:58:33
+Runs done: 23
+Run finished at: June 25, 2021
+18:18:33
+Runs done: 24
+Run finished at: June 25, 2021
+18:38:19
+Runs done: 25
+Run finished at: June 25, 2021
+18:58:20
+Runs done: 26
+Run finished at: June 25, 2021
+19:17:53
+Runs done: 27
+Run finished at: June 25, 2021
+19:37:28
+Runs done: 28
+Run finished at: June 25, 2021
+19:56:53
+Runs done: 29
+Run finished at: June 25, 2021
+20:17:08
+Runs done: 30
+Run finished at: June 26, 2021
+11:23:11
+Runs done: 1
+Run finished at: June 26, 2021
+11:43:08
+Runs done: 2
+Run finished at: June 26, 2021
+12:03:31
+Runs done: 3
+Run finished at: June 26, 2021
+12:23:58
+Runs done: 4
+Run finished at: June 26, 2021
+12:43:37
+Runs done: 5
+Run finished at: June 26, 2021
+13:02:58
+Runs done: 6
+Run finished at: June 26, 2021
+13:22:54
+Runs done: 7
+Run finished at: June 26, 2021
+13:43:06
+Runs done: 8
+Run finished at: June 26, 2021
+14:03:14
+Runs done: 9
+Run finished at: June 26, 2021
+14:23:30
+Runs done: 10
+Run finished at: June 26, 2021
+14:43:17
+Runs done: 11
+Run finished at: June 26, 2021
+15:02:50
+Runs done: 12
+Run finished at: June 26, 2021
+15:22:10
+Runs done: 13
+Run finished at: June 26, 2021
+15:51:19
+Runs done: 1
+Run finished at: June 26, 2021
+16:11:44
+Runs done: 2
+Run finished at: June 26, 2021
+16:32:15
+Runs done: 3
+Run finished at: June 26, 2021
+16:51:27
+Runs done: 4
+Run finished at: June 26, 2021
+17:11:26
+Runs done: 5
+Run finished at: June 26, 2021
+17:31:01
+Runs done: 6
+Run finished at: June 26, 2021
+17:51:34
+Runs done: 7
+Run finished at: June 26, 2021
+18:10:45
+Runs done: 8
+Run finished at: June 26, 2021
+18:30:24
+Runs done: 9
+Run finished at: June 26, 2021
+18:50:42
+Runs done: 10
+Run finished at: June 26, 2021
+19:10:24
+Runs done: 11
+Run finished at: June 26, 2021
+19:30:11
+Runs done: 12
+Run finished at: June 26, 2021
+19:49:48
+Runs done: 13
+Run finished at: June 26, 2021
+20:09:25
+Runs done: 14
+Run finished at: June 26, 2021
+20:29:06
+Runs done: 15
+Run finished at: June 26, 2021
+20:48:38
+Runs done: 16
+Run finished at: June 27, 2021
+12:34:53
+Runs done: 1
+Run finished at: June 27, 2021
+12:55:14
+Runs done: 2
+Run finished at: June 27, 2021
+13:14:05
+Runs done: 3
+Run finished at: June 27, 2021
+13:33:24
+Runs done: 4
+Run finished at: June 27, 2021
+13:54:04
+Runs done: 5
+Run finished at: June 27, 2021
+14:13:47
+Runs done: 6
+Run finished at: June 27, 2021
+14:33:20
+Runs done: 7
+Run finished at: June 27, 2021
+14:53:06
+Runs done: 8
+Run finished at: June 27, 2021
+15:12:58
+Runs done: 9
+Run finished at: June 27, 2021
+15:33:01
+Runs done: 10
+Run finished at: June 27, 2021
+15:52:30
+Runs done: 11
+Run finished at: June 27, 2021
+16:12:31
+Runs done: 12
+Run finished at: June 27, 2021
+16:32:53
+Runs done: 13
+Run finished at: June 27, 2021
+16:52:46
+Runs done: 14
+Run finished at: June 27, 2021
+17:13:02
+Runs done: 15
+Run finished at: June 27, 2021
+18:41:43
+Runs done: 1
+Run finished at: June 27, 2021
+19:01:46
+Runs done: 2
+Run finished at: June 27, 2021
+19:21:19
+Runs done: 3
+Run finished at: June 27, 2021
+19:41:56
+Runs done: 4
+Run finished at: June 27, 2021
+20:01:59
+Runs done: 5
+Run finished at: June 27, 2021
+20:21:46
+Runs done: 6
+Run finished at: June 27, 2021
+20:42:10
+Runs done: 7
+Run finished at: June 27, 2021
+21:01:04
+Runs done: 8
+Run finished at: June 27, 2021
+21:21:15
+Runs done: 9
+Run finished at: June 27, 2021
+21:41:27
+Runs done: 10
+Run finished at: June 27, 2021
+22:00:59
+Runs done: 11
+Run finished at: June 27, 2021
+22:21:30
+Runs done: 12
+Run finished at: June 27, 2021
+22:41:41
+Runs done: 13
+Run finished at: June 28, 2021
+01:59:45
+Runs done: 1
+Run finished at: June 28, 2021
+02:19:01
+Runs done: 2
+Run finished at: June 28, 2021
+02:37:58
+Runs done: 3
+Run finished at: June 28, 2021
+09:44:28
+Runs done: 1
+Run finished at: June 28, 2021
+10:03:46
+Runs done: 2
+Run finished at: June 28, 2021
+10:23:13
+Runs done: 3
+Run finished at: June 28, 2021
+10:42:23
+Runs done: 4
+Run finished at: June 28, 2021
+11:02:05
+Runs done: 5
+Run finished at: June 28, 2021
+11:22:22
+Runs done: 6
+Run finished at: June 28, 2021
+11:42:21
+Runs done: 7
+Run finished at: June 28, 2021
+12:02:41
+Runs done: 8
+Run finished at: June 28, 2021
+12:23:01
+Runs done: 9
+Run finished at: June 28, 2021
+12:42:14
+Runs done: 10
+Run finished at: June 28, 2021
+13:01:55
+Runs done: 11
+Run finished at: June 28, 2021
+13:21:22
+Runs done: 12
+Run finished at: June 28, 2021
+13:41:50
+Runs done: 13
+Run finished at: June 28, 2021
+14:01:29
+Runs done: 14
+Run finished at: June 28, 2021
+14:20:59
+Runs done: 15
+Run finished at: June 28, 2021
+14:40:41
+Runs done: 16
+Run finished at: June 28, 2021
+15:37:36
+Runs done: 1
+Run finished at: June 28, 2021
+15:57:56
+Runs done: 2
+Run finished at: June 28, 2021
+16:17:36
+Runs done: 3
+Run finished at: June 28, 2021
+16:37:09
+Runs done: 4
+Run finished at: June 28, 2021
+16:56:57
+Runs done: 5
+Run finished at: June 28, 2021
+17:16:31
+Runs done: 6
+Run finished at: June 28, 2021
+17:36:09
+Runs done: 7
+Run finished at: June 28, 2021
+17:55:43
+Runs done: 8
+Run finished at: June 28, 2021
+18:16:01
+Runs done: 9
+Run finished at: June 29, 2021
+11:50:32
+Runs done: 1
+Run finished at: June 29, 2021
+12:09:46
+Runs done: 2
+Run finished at: June 29, 2021
+12:29:05
+Runs done: 3
+Run finished at: June 29, 2021
+12:49:19
+Runs done: 4
+Run finished at: June 29, 2021
+13:08:58
+Runs done: 5
+Run finished at: June 29, 2021
+13:27:55
+Runs done: 6
+Run finished at: June 29, 2021
+13:47:32
+Runs done: 7
+Run finished at: June 29, 2021
+14:07:03
+Runs done: 8
+Run finished at: June 29, 2021
+14:27:22
+Runs done: 9
+Run finished at: June 29, 2021
+14:47:55
+Runs done: 10
+Run finished at: June 29, 2021
+15:08:01
+Runs done: 11
+Run finished at: June 29, 2021
+15:43:05
+Runs done: 1
+Run finished at: June 29, 2021
+16:02:44
+Runs done: 2
+Run finished at: June 29, 2021
+16:22:10
+Runs done: 3
+Run finished at: June 29, 2021
+16:41:37
+Runs done: 4
+Run finished at: June 29, 2021
+17:01:13
+Runs done: 5
+Run finished at: June 29, 2021
+17:21:03
+Runs done: 6
+Run finished at: June 29, 2021
+17:41:40
+Runs done: 7
+Run finished at: June 29, 2021
+18:01:15
+Runs done: 8
+Run finished at: June 29, 2021
+18:20:56
+Runs done: 9
+Run finished at: June 29, 2021
+18:40:18
+Runs done: 10
+Run finished at: June 29, 2021
+20:06:09
+Runs done: 1
+Run finished at: June 29, 2021
+20:26:31
+Runs done: 2
+Run finished at: June 29, 2021
+20:46:23
+Runs done: 3
+Run finished at: June 29, 2021
+21:05:45
+Runs done: 4
+Run finished at: June 29, 2021
+21:26:07
+Runs done: 5
+Run finished at: June 29, 2021
+21:45:33
+Runs done: 6
+Run finished at: June 29, 2021
+22:05:19
+Runs done: 7
+Run finished at: June 30, 2021
+03:05:31
+Runs done: 1
+Run finished at: June 30, 2021
+03:25:16
+Runs done: 2
+Run finished at: June 30, 2021
+03:45:09
+Runs done: 3
+Run finished at: June 30, 2021
+04:04:53
+Runs done: 4
+Run finished at: June 30, 2021
+04:25:28
+Runs done: 5
+Run finished at: June 30, 2021
+04:45:12
+Runs done: 6
+Run finished at: June 30, 2021
+05:04:38
+Runs done: 7
+Run finished at: June 30, 2021
+05:24:09
+Runs done: 8
+Run finished at: June 30, 2021
+05:44:35
+Runs done: 9
+Run finished at: June 30, 2021
+06:03:50
+Runs done: 10
+Run finished at: June 30, 2021
+06:23:57
+Runs done: 11
+Run finished at: June 30, 2021
+06:43:25
+Runs done: 12
+Run finished at: June 30, 2021
+07:03:46
+Runs done: 13
+Run finished at: June 30, 2021
+07:23:38
+Runs done: 14
+Run finished at: June 30, 2021
+07:43:50
+Runs done: 15
+Run finished at: June 30, 2021
+08:02:59
+Runs done: 16
+Run finished at: June 30, 2021
+08:23:10
+Runs done: 17
+Run finished at: June 30, 2021
+08:43:43
+Runs done: 18
+Run finished at: June 30, 2021
+09:04:11
+Runs done: 19
+Run finished at: June 30, 2021
+09:23:41
+Runs done: 20
+Run finished at: June 30, 2021
+09:43:52
+Runs done: 21
+Run finished at: June 30, 2021
+10:03:51
+Runs done: 22
+Run finished at: June 30, 2021
+10:24:14
+Runs done: 23
+Run finished at: June 30, 2021
+10:44:04
+Runs done: 24
+Run finished at: June 30, 2021
+11:03:34
+Runs done: 25
+Run finished at: June 30, 2021
+11:23:11
+Runs done: 26
+Run finished at: June 30, 2021
+11:43:37
+Runs done: 27
+Run finished at: June 30, 2021
+12:03:16
+Runs done: 28
+Run finished at: June 30, 2021
+12:22:54
+Runs done: 29
+Run finished at: June 30, 2021
+12:42:55
+Runs done: 30
+Run finished at: July 01, 2021
+01:25:48
+Runs done: 1
+Run finished at: July 01, 2021
+01:46:14
+Runs done: 2
+Run finished at: July 01, 2021
+02:05:47
+Runs done: 3
+Run finished at: July 01, 2021
+02:25:42
+Runs done: 4
+Run finished at: July 01, 2021
+02:45:11
+Runs done: 5
+Run finished at: July 01, 2021
+03:05:12
+Runs done: 6
+Run finished at: July 01, 2021
+03:24:25
+Runs done: 7
+Run finished at: July 01, 2021
+03:44:45
+Runs done: 8
+Run finished at: July 01, 2021
+04:04:42
+Runs done: 9
+Run finished at: July 01, 2021
+04:24:36
+Runs done: 10
+Run finished at: July 01, 2021
+04:44:10
+Runs done: 11
+Run finished at: July 01, 2021
+05:03:27
+Runs done: 12
+Run finished at: July 01, 2021
+05:23:20
+Runs done: 13
+Run finished at: July 01, 2021
+05:43:02
+Runs done: 14
+Run finished at: July 01, 2021
+06:02:27
+Runs done: 15
+Run finished at: July 01, 2021
+06:22:03
+Runs done: 16
+Run finished at: July 01, 2021
+06:41:23
+Runs done: 17
+Run finished at: July 01, 2021
+07:43:08
+Runs done: 1
+Run finished at: July 01, 2021
+08:02:37
+Runs done: 2
+Run finished at: July 01, 2021
+08:23:00
+Runs done: 3
+Run finished at: July 01, 2021
+08:42:25
+Runs done: 4
+Run finished at: July 01, 2021
+09:01:45
+Runs done: 5
+Run finished at: July 01, 2021
+09:21:28
+Runs done: 6
+Run finished at: July 01, 2021
+09:40:54
+Runs done: 7
+Run finished at: July 01, 2021
+10:00:22
+Runs done: 8
+Run finished at: July 01, 2021
+10:19:52
+Runs done: 9
+Run finished at: July 01, 2021
+10:40:19
+Runs done: 10
+Run finished at: July 01, 2021
+11:21:18
+Runs done: 1
+Run finished at: July 02, 2021
+02:33:11
+Runs done: 1
+Run finished at: July 02, 2021
+05:50:35
+Runs done: 1
+Run finished at: July 02, 2021
+06:10:13
+Runs done: 2
+Run finished at: July 02, 2021
+06:29:04
+Runs done: 3
+Run finished at: July 02, 2021
+06:49:15
+Runs done: 4
+Run finished at: July 02, 2021
+07:08:46
+Runs done: 5
+Run finished at: July 02, 2021
+07:28:55
+Runs done: 6
+Run finished at: July 02, 2021
+12:23:54
+Runs done: 1
+Run finished at: July 02, 2021
+12:43:48
+Runs done: 2
+Run finished at: July 02, 2021
+13:24:06
+Runs done: 1
+Run finished at: July 02, 2021
+13:44:19
+Runs done: 2
+Run finished at: July 02, 2021
+14:04:03
+Runs done: 3
+Run finished at: July 02, 2021
+14:24:39
+Runs done: 4
+Run finished at: July 02, 2021
+14:44:17
+Runs done: 5
+Run finished at: July 02, 2021
+15:04:30
+Runs done: 6
+Run finished at: July 02, 2021
+15:24:00
+Runs done: 7
+Run finished at: July 02, 2021
+15:43:16
+Runs done: 8
+Run finished at: July 02, 2021
+16:03:49
+Runs done: 9
+Run finished at: July 02, 2021
+16:23:58
+Runs done: 10
+Run finished at: July 02, 2021
+20:01:23
+Runs done: 1
+Run finished at: July 02, 2021
+20:21:35
+Runs done: 2
+Run finished at: July 02, 2021
+20:41:46
+Runs done: 3
+Run finished at: July 02, 2021
+21:01:58
+Runs done: 4
+Run finished at: July 02, 2021
+21:22:18
+Runs done: 5
+Run finished at: July 02, 2021
+21:42:35
+Runs done: 6
+Run finished at: July 02, 2021
+22:02:46
+Runs done: 7
+Run finished at: July 02, 2021
+22:22:57
+Runs done: 8
+Run finished at: July 02, 2021
+22:43:18
+Runs done: 9
+Run finished at: July 03, 2021
+01:23:20
+Runs done: 1
+Run finished at: July 03, 2021
+01:43:31
+Runs done: 2
+Run finished at: July 03, 2021
+02:03:42
+Runs done: 3
+Run finished at: July 03, 2021
+02:23:54
+Runs done: 4
+Run finished at: July 03, 2021
+02:44:04
+Runs done: 5
+Run finished at: July 03, 2021
+03:04:15
+Runs done: 6
+Run finished at: July 03, 2021
+03:24:26
+Runs done: 7
+Run finished at: July 03, 2021
+03:44:38
+Runs done: 8
+Run finished at: July 03, 2021
+04:04:49
+Runs done: 9
+Run finished at: July 03, 2021
+04:25:10
+Runs done: 10
+Run finished at: July 03, 2021
+04:45:21
+Runs done: 11
+Run finished at: July 03, 2021
+05:05:32
+Runs done: 12
+Run finished at: July 03, 2021
+05:25:43
+Runs done: 13
+Run finished at: July 03, 2021
+05:45:55
+Runs done: 14
+Run finished at: July 03, 2021
+06:06:06
+Runs done: 15
+Run finished at: July 03, 2021
+06:26:16
+Runs done: 16
+Run finished at: July 03, 2021
+06:46:34
+Runs done: 17
+Run finished at: July 03, 2021
+07:06:46
+Runs done: 18
+Run finished at: July 03, 2021
+07:26:57
+Runs done: 19
+Run finished at: July 03, 2021
+07:47:08
+Runs done: 20
+Run finished at: July 03, 2021
+08:07:18
+Runs done: 21
+Run finished at: July 03, 2021
+08:27:29
+Runs done: 22
+Run finished at: July 03, 2021
+08:47:40
+Runs done: 23
+Run finished at: July 03, 2021
+09:07:51
+Runs done: 24
+Run finished at: July 03, 2021
+09:28:02
+Runs done: 25
+Run finished at: July 03, 2021
+09:48:12
+Runs done: 26
+Run finished at: July 03, 2021
+10:08:23
+Runs done: 27
+Run finished at: July 03, 2021
+10:28:34
+Runs done: 28
+Run finished at: July 03, 2021
+10:48:44
+Runs done: 29
+Run finished at: July 03, 2021
+11:08:56
+Runs done: 30
+Run finished at: July 04, 2021
+02:53:58
+Runs done: 1
+Run finished at: July 04, 2021
+03:14:09
+Runs done: 2
+Run finished at: July 04, 2021
+03:34:20
+Runs done: 3
+Run finished at: July 04, 2021
+03:54:31
+Runs done: 4
+Run finished at: July 04, 2021
+04:14:42
+Runs done: 5
+Run finished at: July 04, 2021
+04:34:53
+Runs done: 6
+Run finished at: July 04, 2021
+04:55:04
+Runs done: 7
+Run finished at: July 04, 2021
+05:15:16
+Runs done: 8
+Run finished at: July 04, 2021
+05:35:27
+Runs done: 9
+Run finished at: July 04, 2021
+05:55:38
+Runs done: 10
+Run finished at: July 04, 2021
+06:15:49
+Runs done: 11
+Run finished at: July 04, 2021
+06:36:00
+Runs done: 12
+Run finished at: July 04, 2021
+06:56:25
+Runs done: 13
+Run finished at: July 04, 2021
+07:16:36
+Runs done: 14
+Run finished at: July 04, 2021
+07:36:47
+Runs done: 15
+Run finished at: July 04, 2021
+07:56:59
+Runs done: 16
+Run finished at: July 04, 2021
+08:17:27
+Runs done: 17
+Run finished at: July 04, 2021
+08:37:38
+Runs done: 18
+Run finished at: July 04, 2021
+08:57:49
+Runs done: 19
+Run finished at: July 04, 2021
+09:18:00
+Runs done: 20
+Run finished at: July 04, 2021
+09:38:11
+Runs done: 21
+Run finished at: July 04, 2021
+09:58:22
+Runs done: 22
+Run finished at: July 04, 2021
+10:18:44
+Runs done: 23
+Run finished at: July 04, 2021
+10:39:20
+Runs done: 24
+Run finished at: July 04, 2021
+10:59:35
+Runs done: 25
+Run finished at: July 04, 2021
+11:19:46
+Runs done: 26
+Run finished at: July 04, 2021
+11:39:56
+Runs done: 27
+Run finished at: July 04, 2021
+12:00:07
+Runs done: 28
+Run finished at: July 04, 2021
+12:20:18
+Runs done: 29
+Run finished at: July 04, 2021
+12:40:29
+Runs done: 30
+Run finished at: July 05, 2021
+08:09:34
+Runs done: 1
+Run finished at: July 05, 2021
+08:29:45
+Runs done: 2
+Run finished at: July 05, 2021
+08:49:56
+Runs done: 3
+Run finished at: July 05, 2021
+09:10:16
+Runs done: 4
+Run finished at: July 05, 2021
+09:30:26
+Runs done: 5
+Run finished at: July 05, 2021
+09:50:51
+Runs done: 6
+Run finished at: July 05, 2021
+10:11:01
+Runs done: 7
+Run finished at: July 05, 2021
+10:31:12
+Runs done: 8
+Run finished at: July 05, 2021
+10:51:22
+Runs done: 9
+Run finished at: July 05, 2021
+11:11:33
+Runs done: 10
+Run finished at: July 05, 2021
+11:31:44
+Runs done: 11
+Run finished at: July 05, 2021
+11:51:55
+Runs done: 12
+Run finished at: July 05, 2021
+12:12:05
+Runs done: 13
+Run finished at: July 05, 2021
+12:32:16
+Runs done: 14
+Run finished at: July 05, 2021
+12:52:46
+Runs done: 15
+Run finished at: July 05, 2021
+13:12:56
+Runs done: 16
+Run finished at: July 05, 2021
+13:33:07
+Runs done: 17
+Run finished at: July 05, 2021
+13:53:17
+Runs done: 18
+Run finished at: July 05, 2021
+14:13:47
+Runs done: 19
+Run finished at: July 05, 2021
+14:33:58
+Runs done: 20
+Run finished at: July 05, 2021
+14:54:08
+Runs done: 21
+Run finished at: July 05, 2021
+15:14:19
+Runs done: 22
+Run finished at: July 05, 2021
+15:34:29
+Runs done: 23
+Run finished at: July 05, 2021
+15:54:49
+Runs done: 24
+Run finished at: July 05, 2021
+16:14:59
+Runs done: 25
+Run finished at: July 05, 2021
+16:35:09
+Runs done: 26
+Run finished at: July 05, 2021
+16:55:20
+Runs done: 27
+Run finished at: July 05, 2021
+17:15:51
+Runs done: 28
+Run finished at: July 06, 2021
+11:35:56
+Runs done: 1
+Run finished at: July 06, 2021
+11:56:07
+Runs done: 2
+Run finished at: July 06, 2021
+12:16:18
+Runs done: 3
+Run finished at: July 06, 2021
+12:36:28
+Runs done: 4
+Run finished at: July 06, 2021
+12:56:38
+Runs done: 5
+Run finished at: July 06, 2021
+13:16:49
+Runs done: 6
+Run finished at: July 06, 2021
+13:37:12
+Runs done: 7
+Run finished at: July 06, 2021
+13:57:23
+Runs done: 8
+Run finished at: July 06, 2021
+14:17:34
+Runs done: 9
+Run finished at: July 06, 2021
+14:37:44
+Runs done: 10
+Run finished at: July 06, 2021
+14:57:55
+Runs done: 11
+Run finished at: July 06, 2021
+15:18:06
+Runs done: 12
+Run finished at: July 06, 2021
+15:38:21
+Runs done: 13
+Run finished at: July 06, 2021
+15:58:32
+Runs done: 14
+Run finished at: July 06, 2021
+16:18:43
+Runs done: 15
+Run finished at: July 06, 2021
+16:38:54
+Runs done: 16
+Run finished at: July 06, 2021
+16:59:20
+Runs done: 17
+Run finished at: July 06, 2021
+17:19:31
+Runs done: 18
+Run finished at: July 06, 2021
+17:39:46
+Runs done: 19
+Run finished at: July 06, 2021
+17:59:58
+Runs done: 20
+Run finished at: July 06, 2021
+18:20:08
+Runs done: 21
+Run finished at: July 06, 2021
+18:40:18
+Runs done: 22
+Run finished at: July 06, 2021
+19:00:41
+Runs done: 23
+Run finished at: July 06, 2021
+19:21:10
+Runs done: 24
+Run finished at: July 06, 2021
+19:41:20
+Runs done: 25
+Run finished at: July 06, 2021
+20:01:41
+Runs done: 26
+Run finished at: July 06, 2021
+20:21:52
+Runs done: 27
+Run finished at: July 06, 2021
+20:42:03
+Runs done: 28
+Run finished at: July 06, 2021
+21:02:15
+Runs done: 29
+Run finished at: July 06, 2021
+21:22:25
+Runs done: 30
+Run finished at: July 07, 2021
+02:20:30
+Runs done: 1
+Run finished at: July 07, 2021
+02:40:53
+Runs done: 2
+Run finished at: July 07, 2021
+03:01:03
+Runs done: 3
+Run finished at: July 07, 2021
+03:21:14
+Runs done: 4
+Run finished at: July 07, 2021
+03:41:25
+Runs done: 5
+Run finished at: July 07, 2021
+04:01:42
+Runs done: 6
+Run finished at: July 07, 2021
+04:22:11
+Runs done: 7
+Run finished at: July 07, 2021
+04:42:21
+Runs done: 8
+Run finished at: July 07, 2021
+05:02:32
+Runs done: 9
+Run finished at: July 07, 2021
+05:22:43
+Runs done: 10
+Run finished at: July 07, 2021
+05:42:54
+Runs done: 11
+Run finished at: July 07, 2021
+06:03:05
+Runs done: 12
+Run finished at: July 07, 2021
+06:23:16
+Runs done: 13
+Run finished at: July 07, 2021
+06:43:27
+Runs done: 14
+Run finished at: July 07, 2021
+07:03:37
+Runs done: 15
+Run finished at: July 07, 2021
+07:23:48
+Runs done: 16
+Run finished at: July 07, 2021
+07:43:58
+Runs done: 17
+Run finished at: July 07, 2021
+08:04:09
+Runs done: 18
+Run finished at: July 07, 2021
+08:24:20
+Runs done: 19
+Run finished at: July 07, 2021
+08:44:31
+Runs done: 20
+Run finished at: July 07, 2021
+09:04:41
+Runs done: 21
+Run finished at: July 07, 2021
+09:25:04
+Runs done: 22
+Run finished at: July 07, 2021
+09:45:14
+Runs done: 23
+Run finished at: July 07, 2021
+10:05:25
+Runs done: 24
+Run finished at: July 07, 2021
+10:25:35
+Runs done: 25
+Run finished at: July 07, 2021
+10:46:07
+Runs done: 26
+Run finished at: July 07, 2021
+11:06:39
+Runs done: 27
+Run finished at: July 07, 2021
+11:26:49
+Runs done: 28
+Run finished at: July 07, 2021
+11:47:14
+Runs done: 29
+Run finished at: July 07, 2021
+12:07:24
+Runs done: 30
+Run finished at: July 08, 2021
+11:08:09
+Runs done: 1
+Run finished at: July 08, 2021
+11:28:20
+Runs done: 2
+Run finished at: July 08, 2021
+11:48:31
+Runs done: 3
+Run finished at: July 08, 2021
+12:08:42
+Runs done: 4
+Run finished at: July 08, 2021
+12:31:06
+Runs done: 1
+Run finished at: July 08, 2021
+12:57:47
+Runs done: 1
+Run finished at: July 08, 2021
+13:17:59
+Runs done: 2
+Run finished at: July 08, 2021
+13:38:09
+Runs done: 3
+Run finished at: July 08, 2021
+13:58:21
+Runs done: 4
+Run finished at: July 08, 2021
+14:18:31
+Runs done: 5
+Run finished at: July 08, 2021
+14:38:43
+Runs done: 6
+Run finished at: July 08, 2021
+14:58:54
+Runs done: 7
+Run finished at: July 08, 2021
+15:19:05
+Runs done: 8
+Run finished at: July 08, 2021
+15:39:16
+Runs done: 9
+Run finished at: July 08, 2021
+15:59:27
+Runs done: 10
+Run finished at: July 08, 2021
+16:19:38
+Runs done: 11
+Run finished at: July 08, 2021
+16:39:49
+Runs done: 12
+Run finished at: July 08, 2021
+17:00:19
+Runs done: 13
+Run finished at: July 08, 2021
+17:20:30
+Runs done: 14
+Run finished at: July 08, 2021
+17:40:45
+Runs done: 15
+Run finished at: July 08, 2021
+18:01:11
+Runs done: 16
+Run finished at: July 08, 2021
+18:21:21
+Runs done: 17
+Run finished at: July 08, 2021
+18:41:32
+Runs done: 18
+Run finished at: July 08, 2021
+19:01:50
+Runs done: 19
+Run finished at: July 08, 2021
+19:22:01
+Runs done: 20
+Run finished at: July 08, 2021
+19:42:12
+Runs done: 21
+Run finished at: July 08, 2021
+20:02:23
+Runs done: 22
+Run finished at: July 08, 2021
+20:22:34
+Runs done: 23
+Run finished at: July 08, 2021
+20:42:44
+Runs done: 24
+Run finished at: July 09, 2021
+02:02:23
+Runs done: 1
+Run finished at: July 09, 2021
+02:22:35
+Runs done: 2
+Run finished at: July 09, 2021
+02:43:04
+Runs done: 3
+Run finished at: July 09, 2021
+03:03:15
+Runs done: 4
+Run finished at: July 09, 2021
+03:23:26
+Runs done: 5
+Run finished at: July 09, 2021
+03:43:37
+Runs done: 6
+Run finished at: July 09, 2021
+04:04:18
+Runs done: 7
+Run finished at: July 09, 2021
+04:24:46
+Runs done: 8
+Run finished at: July 09, 2021
+04:44:57
+Runs done: 9
+Run finished at: July 09, 2021
+05:05:09
+Runs done: 10
+Run finished at: July 09, 2021
+05:25:20
+Runs done: 11
+Run finished at: July 09, 2021
+05:45:31
+Runs done: 12
+Run finished at: July 09, 2021
+06:05:42
+Runs done: 13
+Run finished at: July 09, 2021
+06:25:53
+Runs done: 14
+Run finished at: July 09, 2021
+06:46:04
+Runs done: 15
+Run finished at: July 09, 2021
+07:06:15
+Runs done: 16
+Run finished at: July 09, 2021
+07:26:26
+Runs done: 17
+Run finished at: July 09, 2021
+07:46:38
+Runs done: 18
+Run finished at: July 09, 2021
+08:07:10
+Runs done: 19
+Run finished at: July 09, 2021
+08:37:31
+Runs done: 1
+Run finished at: July 09, 2021
+08:58:06
+Runs done: 2
+Run finished at: July 09, 2021
+09:18:17
+Runs done: 3
+Run finished at: July 09, 2021
+09:38:29
+Runs done: 4
+Run finished at: July 09, 2021
+09:58:40
+Runs done: 5
+Run finished at: July 09, 2021
+10:18:51
+Runs done: 6
+Run finished at: July 09, 2021
+10:39:02
+Runs done: 7
+Run finished at: July 09, 2021
+10:59:13
+Runs done: 8
+Run finished at: July 09, 2021
+11:19:24
+Runs done: 9
+Run finished at: July 09, 2021
+11:39:35
+Runs done: 10
+Run finished at: July 10, 2021
+02:56:24
+Runs done: 1
+Run finished at: July 10, 2021
+03:16:35
+Runs done: 2
+Run finished at: July 10, 2021
+03:36:45
+Runs done: 3
+Run finished at: July 10, 2021
+03:56:55
+Runs done: 4
+Run finished at: July 10, 2021
+04:17:06
+Runs done: 5
+Run finished at: July 10, 2021
+04:37:17
+Runs done: 6
+Run finished at: July 10, 2021
+04:57:28
+Runs done: 7
+Run finished at: July 10, 2021
+05:17:38
+Runs done: 8
+Run finished at: July 10, 2021
+05:37:49
+Runs done: 9
+Run finished at: July 10, 2021
+05:58:00
+Runs done: 10
+Run finished at: July 10, 2021
+06:18:11
+Runs done: 11
+Run finished at: July 10, 2021
+06:38:22
+Runs done: 12
+Run finished at: July 10, 2021
+06:58:43
+Runs done: 13
+Run finished at: July 10, 2021
+07:18:53
+Runs done: 14
+Run finished at: July 10, 2021
+07:39:22
+Runs done: 15
+Run finished at: July 10, 2021
+07:59:32
+Runs done: 16
+Run finished at: July 10, 2021
+08:19:43
+Runs done: 17
+Run finished at: July 10, 2021
+08:39:54
+Runs done: 18
+Run finished at: July 10, 2021
+09:00:05
+Runs done: 19
+Run finished at: July 10, 2021
+09:20:15
+Runs done: 20
+Run finished at: July 10, 2021
+09:40:26
+Runs done: 21
+Run finished at: July 10, 2021
+10:00:37
+Runs done: 22
+Run finished at: July 10, 2021
+10:20:48
+Runs done: 23
+Run finished at: July 10, 2021
+10:40:58
+Runs done: 24
+Run finished at: July 10, 2021
+11:01:09
+Runs done: 25
+Run finished at: July 10, 2021
+11:21:19
+Runs done: 26
+Run finished at: July 10, 2021
+11:41:31
+Runs done: 27
+Run finished at: July 10, 2021
+12:01:42
+Runs done: 28
+Run finished at: July 10, 2021
+12:21:52
+Runs done: 29
+Run finished at: July 10, 2021
+12:42:03
+Runs done: 30
+Run finished at: July 11, 2021
+02:12:22
+Runs done: 1
+Run finished at: July 11, 2021
+02:32:33
+Runs done: 2
+Run finished at: July 11, 2021
+02:52:43
+Runs done: 3
+Run finished at: July 11, 2021
+03:12:55
+Runs done: 4
+Run finished at: July 11, 2021
+03:33:06
+Runs done: 5
+Run finished at: July 11, 2021
+03:53:17
+Runs done: 6
+Run finished at: July 11, 2021
+04:13:28
+Runs done: 7
+Run finished at: July 11, 2021
+04:33:39
+Runs done: 8
+Run finished at: July 11, 2021
+04:54:16
+Runs done: 9
+Run finished at: July 11, 2021
+05:14:27
+Runs done: 10
+Run finished at: July 11, 2021
+05:34:44
+Runs done: 11
+Run finished at: July 11, 2021
+05:54:55
+Runs done: 12
+Run finished at: July 11, 2021
+06:15:06
+Runs done: 13
+Run finished at: July 11, 2021
+06:35:33
+Runs done: 14
+Run finished at: July 11, 2021
+06:55:44
+Runs done: 15
+Run finished at: July 11, 2021
+07:16:15
+Runs done: 16
+Run finished at: July 11, 2021
+07:36:53
+Runs done: 17
+Run finished at: July 11, 2021
+11:54:41
+Runs done: 1
+Run finished at: July 11, 2021
+12:14:52
+Runs done: 2
+Run finished at: July 11, 2021
+12:35:03
+Runs done: 3
+Run finished at: July 11, 2021
+12:55:14
+Runs done: 4
+Run finished at: July 11, 2021
+13:15:25
+Runs done: 5
+Run finished at: July 11, 2021
+13:35:36
+Runs done: 6
+Run finished at: July 11, 2021
+13:55:46
+Runs done: 7
+Run finished at: July 11, 2021
+14:15:57
+Runs done: 8
+Run finished at: July 11, 2021
+14:36:08
+Runs done: 9
+Run finished at: July 11, 2021
+14:56:19
+Runs done: 10
+Run finished at: July 11, 2021
+15:16:29
+Runs done: 11
+Run finished at: July 11, 2021
+15:36:40
+Runs done: 12
+Run finished at: July 12, 2021
+02:32:20
+Runs done: 1
+Run finished at: July 12, 2021
+08:59:23
+Runs done: 1
+Run finished at: July 12, 2021
+09:19:34
+Runs done: 2
+Run finished at: July 12, 2021
+09:39:45
+Runs done: 3
+Run finished at: July 12, 2021
+09:59:56
+Runs done: 4
+Run finished at: July 12, 2021
+10:20:06
+Runs done: 5
+Run finished at: July 12, 2021
+10:40:17
+Runs done: 6
+Run finished at: July 12, 2021
+11:00:28
+Runs done: 7
+Run finished at: July 12, 2021
+11:20:55
+Runs done: 8
+Run finished at: July 12, 2021
+11:41:06
+Runs done: 9
+Run finished at: July 12, 2021
+12:13:22
+Runs done: 1
+Run finished at: July 12, 2021
+12:33:34
+Runs done: 2
+Run finished at: July 12, 2021
+12:53:45
+Runs done: 3
+Run finished at: July 12, 2021
+13:13:55
+Runs done: 4
+Run finished at: July 12, 2021
+13:34:06
+Runs done: 5
+Run finished at: July 12, 2021
+13:54:17
+Runs done: 6
+Run finished at: July 12, 2021
+14:14:54
+Runs done: 7
+Run finished at: July 12, 2021
+14:35:05
+Runs done: 8
+Run finished at: July 12, 2021
+14:55:16
+Runs done: 9
+Run finished at: July 12, 2021
+15:15:26
+Runs done: 10
+Run finished at: July 12, 2021
+15:35:37
+Runs done: 11
+Run finished at: July 12, 2021
+15:55:48
+Runs done: 12
+Run finished at: July 12, 2021
+16:15:59
+Runs done: 13
+Run finished at: July 12, 2021
+16:36:10
+Runs done: 14
+Run finished at: July 12, 2021
+16:56:21
+Runs done: 15
+Run finished at: July 12, 2021
+17:16:33
+Runs done: 16
+Run finished at: July 12, 2021
+17:36:45
+Runs done: 17
+Run finished at: July 12, 2021
+17:56:56
+Runs done: 18
+Run finished at: July 13, 2021
+02:01:23
+Runs done: 1
+Run finished at: July 13, 2021
+02:21:53
+Runs done: 2
+Run finished at: July 13, 2021
+02:42:22
+Runs done: 3
+Run finished at: July 13, 2021
+03:02:34
+Runs done: 4
+Run finished at: July 13, 2021
+03:22:44
+Runs done: 5
+Run finished at: July 13, 2021
+03:43:11
+Runs done: 6
+Run finished at: July 13, 2021
+04:03:23
+Runs done: 7
+Run finished at: July 13, 2021
+04:23:34
+Runs done: 8
+Run finished at: July 13, 2021
+04:43:45
+Runs done: 9
+Run finished at: July 13, 2021
+05:04:15
+Runs done: 10
+Run finished at: July 13, 2021
+05:24:26
+Runs done: 11
+Run finished at: July 13, 2021
+05:44:37
+Runs done: 12
+Run finished at: July 13, 2021
+06:04:50
+Runs done: 13
+Run finished at: July 13, 2021
+06:25:01
+Runs done: 14
+Run finished at: July 13, 2021
+06:45:20
+Runs done: 15
+Run finished at: July 13, 2021
+07:05:31
+Runs done: 16
+Run finished at: July 13, 2021
+07:25:42
+Runs done: 17
+Run finished at: July 13, 2021
+07:45:54
+Runs done: 18
+Run finished at: July 13, 2021
+08:06:05
+Runs done: 19
+Run finished at: July 13, 2021
+08:26:16
+Runs done: 20
+Run finished at: July 13, 2021
+08:46:27
+Runs done: 21
+Run finished at: July 13, 2021
+09:06:38
+Runs done: 22
+Run finished at: July 13, 2021
+09:26:57
+Runs done: 23
+Run finished at: July 13, 2021
+09:47:34
+Runs done: 24
+Run finished at: July 13, 2021
+10:07:45
+Runs done: 25
+Run finished at: July 13, 2021
+10:27:56
+Runs done: 26
+Run finished at: July 13, 2021
+10:48:07
+Runs done: 27
+Run finished at: July 13, 2021
+11:08:18
+Runs done: 28
+Run finished at: July 13, 2021
+11:28:29
+Runs done: 29
+Run finished at: July 14, 2021
+01:27:48
+Runs done: 1
+Run finished at: July 14, 2021
+01:47:59
+Runs done: 2
+Run finished at: July 14, 2021
+02:08:10
+Runs done: 3
+Run finished at: July 14, 2021
+02:28:37
+Runs done: 4
+Run finished at: July 14, 2021
+02:48:48
+Runs done: 5
+Run finished at: July 14, 2021
+03:08:59
+Runs done: 6
+Run finished at: July 14, 2021
+03:29:10
+Runs done: 7
+Run finished at: July 14, 2021
+03:49:49
+Runs done: 8
+Run finished at: July 14, 2021
+04:10:00
+Runs done: 9
+Run finished at: July 14, 2021
+04:30:11
+Runs done: 10
+Run finished at: July 14, 2021
+04:50:22
+Runs done: 11
+Run finished at: July 14, 2021
+05:10:36
+Runs done: 12
+Run finished at: July 14, 2021
+05:30:46
+Runs done: 13
+Run finished at: July 14, 2021
+05:50:57
+Runs done: 14
+Run finished at: July 14, 2021
+06:21:18
+Runs done: 1
+Run finished at: July 14, 2021
+06:41:30
+Runs done: 2
+Run finished at: July 14, 2021
+07:01:40
+Runs done: 3
+Run finished at: July 14, 2021
+07:21:52
+Runs done: 4
+Run finished at: July 14, 2021
+07:42:20
+Runs done: 5
+Run finished at: July 14, 2021
+08:02:31
+Runs done: 6
+Run finished at: July 14, 2021
+08:22:42
+Runs done: 7
+Run finished at: July 14, 2021
+08:42:52
+Runs done: 8
+Run finished at: July 14, 2021
+09:03:04
+Runs done: 9
+Run finished at: July 14, 2021
+09:23:23
+Runs done: 10
+Run finished at: July 14, 2021
+09:43:34
+Runs done: 11
+Run finished at: July 14, 2021
+10:07:05
+Runs done: 1
+Run finished at: July 14, 2021
+10:27:12
+Runs done: 1
+Run finished at: July 14, 2021
+10:44:47
+Runs done: 2
+Run finished at: July 14, 2021
+11:05:01
+Runs done: 3
+Run finished at: July 17, 2021
+13:28:42
+Runs done: 1
+Run finished at: July 17, 2021
+13:48:53
+Runs done: 2
+Run finished at: July 17, 2021
+14:08:20
+Runs done: 3
+Run finished at: July 17, 2021
+14:28:22
+Runs done: 4
+Run finished at: July 17, 2021
+14:45:26
+Runs done: 5
+Run finished at: July 17, 2021
+15:12:59
+Runs done: 1
+Run finished at: July 17, 2021
+15:28:39
+Runs done: 2
+Run finished at: July 17, 2021
+15:47:05
+Runs done: 3
+Run finished at: July 17, 2021
+16:02:47
+Runs done: 4
+Run finished at: July 17, 2021
+16:17:58
+Runs done: 5
+Run finished at: July 17, 2021
+16:35:33
+Runs done: 6
+Run finished at: July 17, 2021
+16:53:20
+Runs done: 7
+Run finished at: July 17, 2021
+17:07:54
+Runs done: 8
+Run finished at: July 17, 2021
+17:22:33
+Runs done: 9
+Run finished at: July 17, 2021
+17:41:10
+Runs done: 10
+Run finished at: July 17, 2021
+17:55:34
+Runs done: 11
+Run finished at: July 17, 2021
+18:13:42
+Runs done: 12
+Run finished at: July 17, 2021
+18:28:50
+Runs done: 13
+Run finished at: July 17, 2021
+18:47:43
+Runs done: 14
+Run finished at: July 17, 2021
+19:02:36
+Runs done: 15
+Run finished at: July 17, 2021
+19:20:53
+Runs done: 16
+Run finished at: July 17, 2021
+19:36:09
+Runs done: 17
+Run finished at: July 17, 2021
+19:53:53
+Runs done: 18
+Run finished at: July 17, 2021
+20:09:30
+Runs done: 19
+Run finished at: July 17, 2021
+20:24:11
+Runs done: 20
+Run finished at: July 17, 2021
+20:39:52
+Runs done: 21
+Run finished at: July 17, 2021
+20:55:35
+Runs done: 22
+Run finished at: July 17, 2021
+21:09:55
+Runs done: 23
+Run finished at: July 17, 2021
+21:27:52
+Runs done: 24
+Run finished at: July 18, 2021
+01:42:17
+Runs done: 25
+Run finished at: July 18, 2021
+02:01:55
+Runs done: 26
+Run finished at: July 18, 2021
+02:21:44
+Runs done: 27
+Run finished at: July 18, 2021
+02:41:24
+Runs done: 28
+Run finished at: July 18, 2021
+03:01:29
+Runs done: 29
+Run finished at: July 18, 2021
+03:17:44
+Runs done: 30
+Run finished at: July 18, 2021
+03:37:19
+Runs done: 31
+Run finished at: July 18, 2021
+03:57:36
+Runs done: 32
+Run finished at: July 18, 2021
+04:17:48
+Runs done: 33
+Run finished at: July 18, 2021
+04:37:59
+Runs done: 34
+Run finished at: July 18, 2021
+04:54:08
+Runs done: 35
+Run finished at: July 18, 2021
+05:13:50
+Runs done: 36
+Run finished at: July 18, 2021
+05:34:01
+Runs done: 37
+Run finished at: July 18, 2021
+05:50:31
+Runs done: 38
+Run finished at: July 18, 2021
+06:10:43
+Runs done: 39
+Run finished at: July 18, 2021
+06:29:58
+Runs done: 40
+Run finished at: July 18, 2021
+06:50:12
+Runs done: 41
+Run finished at: July 18, 2021
+07:10:23
+Runs done: 42
+Run finished at: July 18, 2021
+07:30:56
+Runs done: 43
+Run finished at: July 18, 2021
+07:51:07
+Runs done: 44
+Run finished at: July 18, 2021
+08:07:20
+Runs done: 45
+Run finished at: July 18, 2021
+08:27:14
+Runs done: 46
+Run finished at: July 18, 2021
+08:45:14
+Runs done: 47
+Run finished at: July 18, 2021
+09:01:55
+Runs done: 48
+Run finished at: July 18, 2021
+09:22:05
+Runs done: 49
+Run finished at: July 18, 2021
+09:39:25
+Runs done: 50
+Run finished at: July 18, 2021
+09:56:56
+Runs done: 51
+Run finished at: July 18, 2021
+10:17:24
+Runs done: 52
+Run finished at: July 18, 2021
+10:33:43
+Runs done: 53
+Run finished at: July 18, 2021
+10:54:00
+Runs done: 54
+Run finished at: July 24, 2021
+13:49:29
+Runs done: 1
+Run finished at: July 24, 2021
+14:06:30
+Runs done: 2
+Run finished at: July 24, 2021
+14:53:07
+Runs done: 1
+Run finished at: July 24, 2021
+15:09:44
+Runs done: 2
+Run finished at: July 24, 2021
+15:28:57
+Runs done: 3
+Run finished at: July 24, 2021
+15:48:38
+Runs done: 4
+Run finished at: July 24, 2021
+16:08:15
+Runs done: 5
+Run finished at: July 24, 2021
+16:28:02
+Runs done: 6
+Run finished at: July 24, 2021
+16:48:40
+Runs done: 7
+Run finished at: July 24, 2021
+17:08:34
+Runs done: 8
+Run finished at: July 24, 2021
+17:29:00
+Runs done: 9
+Run finished at: July 24, 2021
+17:46:18
+Runs done: 10
+Run finished at: July 24, 2021
+18:02:39
+Runs done: 11
+Run finished at: July 24, 2021
+18:22:01
+Runs done: 12
+Run finished at: July 24, 2021
+18:42:12
+Runs done: 13
+Run finished at: July 24, 2021
+19:02:03
+Runs done: 14
+Run finished at: July 24, 2021
+19:19:51
+Runs done: 15
+Run finished at: July 24, 2021
+19:39:38
+Runs done: 16
+Run finished at: July 24, 2021
+19:59:46
+Runs done: 17
+Run finished at: July 24, 2021
+20:50:33
+Runs done: 1
+Run finished at: July 24, 2021
+21:10:54
+Runs done: 2
+Run finished at: July 24, 2021
+21:27:43
+Runs done: 3
+Run finished at: July 24, 2021
+21:47:51
+Runs done: 4
+Run finished at: July 24, 2021
+22:04:30
+Runs done: 5
+Run finished at: July 24, 2021
+22:24:41
+Runs done: 6
+Run finished at: July 24, 2021
+22:41:20
+Runs done: 7
+Run finished at: July 24, 2021
+22:57:51
+Runs done: 8
+Run finished at: July 24, 2021
+23:18:04
+Runs done: 9
+Run finished at: July 25, 2021
+01:27:24
+Runs done: 1
+Run finished at: July 25, 2021
+01:46:55
+Runs done: 2
+Run finished at: July 25, 2021
+02:07:12
+Runs done: 3
+Run finished at: July 25, 2021
+03:27:05
+Runs done: 1
+Run finished at: July 25, 2021
+03:47:13
+Runs done: 2
+Run finished at: July 25, 2021
+04:07:25
+Runs done: 3
+Run finished at: July 25, 2021
+04:27:34
+Runs done: 4
+Run finished at: July 25, 2021
+04:59:04
+Runs done: 1
+Run finished at: July 25, 2021
+05:16:41
+Runs done: 2
+Run finished at: July 25, 2021
+05:33:06
+Runs done: 3
+Run finished at: July 25, 2021
+05:53:17
+Runs done: 4
+Run finished at: July 25, 2021
+06:13:28
+Runs done: 5
+Run finished at: July 25, 2021
+06:33:39
+Runs done: 6
+Run finished at: July 25, 2021
+06:53:41
+Runs done: 7
+Run finished at: July 25, 2021
+07:13:43
+Runs done: 8
+Run finished at: July 25, 2021
+07:30:06
+Runs done: 9
+Run finished at: July 25, 2021
+07:49:41
+Runs done: 10
+Run finished at: July 25, 2021
+08:09:03
+Runs done: 11
+Run finished at: July 25, 2021
+08:26:49
+Runs done: 12
+Run finished at: July 25, 2021
+08:46:32
+Runs done: 13
+Run finished at: July 25, 2021
+09:06:32
+Runs done: 14
+Run finished at: July 25, 2021
+09:26:12
+Runs done: 15
+Run finished at: July 25, 2021
+09:45:46
+Runs done: 16
+Run finished at: July 25, 2021
+10:05:57
+Runs done: 17
+Run finished at: July 25, 2021
+10:26:10
+Runs done: 18
+Run finished at: July 25, 2021
+10:43:34
+Runs done: 19
+Run finished at: July 25, 2021
+11:03:28
+Runs done: 20
+Run finished at: July 25, 2021
+11:23:53
+Runs done: 21
+Run finished at: July 26, 2021
+02:35:04
+Runs done: 1
+Run finished at: July 26, 2021
+02:59:12
+Runs done: 1
+Run finished at: July 26, 2021
+03:16:14
+Runs done: 2
+Run finished at: July 26, 2021
+03:36:02
+Runs done: 3
+Run finished at: July 26, 2021
+03:54:14
+Runs done: 4
+Run finished at: July 26, 2021
+04:14:04
+Runs done: 5
+Run finished at: July 26, 2021
+04:47:06
+Runs done: 1
+Run finished at: July 26, 2021
+05:03:39
+Runs done: 2
+Run finished at: July 26, 2021
+05:23:26
+Runs done: 3
+Run finished at: July 26, 2021
+05:43:16
+Runs done: 4
+Run finished at: July 26, 2021
+06:01:27
+Runs done: 5
+Run finished at: July 26, 2021
+06:22:07
+Runs done: 6
+Run finished at: July 26, 2021
+06:39:18
+Runs done: 7
+Run finished at: July 26, 2021
+06:59:59
+Runs done: 8
+Run finished at: July 26, 2021
+07:17:16
+Runs done: 9
+Run finished at: July 26, 2021
+07:33:21
+Runs done: 10
+Run finished at: July 26, 2021
+07:53:56
+Runs done: 11
+Run finished at: July 26, 2021
+08:13:33
+Runs done: 12
+Run finished at: July 26, 2021
+08:34:12
+Runs done: 13
+Run finished at: July 26, 2021
+08:54:24
+Runs done: 14
+Run finished at: July 26, 2021
+10:14:09
+Runs done: 1
+Run finished at: July 26, 2021
+10:33:58
+Runs done: 2
+Run finished at: July 26, 2021
+10:51:06
+Runs done: 3
+Run finished at: July 26, 2021
+11:11:17
+Runs done: 4
+Run finished at: July 26, 2021
+11:31:00
+Runs done: 5
+Run finished at: July 26, 2021
+11:47:29
+Runs done: 6
+Run finished at: July 26, 2021
+12:05:01
+Runs done: 7
+Run finished at: July 26, 2021
+12:24:26
+Runs done: 8
+Run finished at: July 26, 2021
+12:44:14
+Runs done: 9
+Run finished at: July 27, 2021
+01:28:29
+Runs done: 1
+Run finished at: July 27, 2021
+01:48:20
+Runs done: 2
+Run finished at: July 27, 2021
+02:07:51
+Runs done: 3
+Run finished at: July 27, 2021
+02:27:58
+Runs done: 4
+Run finished at: July 27, 2021
+02:44:40
+Runs done: 5
+Run finished at: July 27, 2021
+03:01:44
+Runs done: 6
+Run finished at: July 27, 2021
+03:21:45
+Runs done: 7
+Run finished at: July 27, 2021
+03:56:16
+Runs done: 1
+Run finished at: July 27, 2021
+04:16:12
+Runs done: 2
+Run finished at: July 27, 2021
+04:33:04
+Runs done: 3
+Run finished at: July 27, 2021
+04:51:06
+Runs done: 4
+Run finished at: July 27, 2021
+05:07:42
+Runs done: 5
+Run finished at: July 27, 2021
+05:27:59
+Runs done: 6
+Run finished at: July 27, 2021
+05:48:10
+Runs done: 7
+Run finished at: July 27, 2021
+06:07:40
+Runs done: 8
+Run finished at: July 27, 2021
+06:27:39
+Runs done: 9
+Run finished at: July 27, 2021
+06:48:02
+Runs done: 10
+Run finished at: July 27, 2021
+07:07:22
+Runs done: 11
+Run finished at: July 27, 2021
+07:24:56
+Runs done: 12
+Run finished at: July 27, 2021
+07:41:09
+Runs done: 13
+Run finished at: July 27, 2021
+07:57:19
+Runs done: 14
+Run finished at: July 27, 2021
+08:16:58
+Runs done: 15
+Run finished at: July 27, 2021
+08:36:31
+Runs done: 16
+Run finished at: July 27, 2021
+08:52:52
+Runs done: 17
+Run finished at: July 27, 2021
+09:12:38
+Runs done: 18
+Run finished at: July 27, 2021
+09:32:51
+Runs done: 19
+Run finished at: July 27, 2021
+09:52:58
+Runs done: 20
+Run finished at: July 27, 2021
+10:09:41
+Runs done: 21
+Run finished at: July 27, 2021
+10:30:15
+Runs done: 22
+Run finished at: July 28, 2021
+02:27:32
+Runs done: 1
+Run finished at: July 28, 2021
+02:59:31
+Runs done: 1
+Run finished at: July 28, 2021
+03:19:25
+Runs done: 2
+Run finished at: July 28, 2021
+03:36:47
+Runs done: 3
+Run finished at: July 28, 2021
+03:57:18
+Runs done: 4
+Run finished at: July 28, 2021
+04:30:01
+Runs done: 1
+Run finished at: July 28, 2021
+04:50:13
+Runs done: 2
+Run finished at: July 28, 2021
+05:06:23
+Runs done: 3
+Run finished at: July 28, 2021
+05:26:15
+Runs done: 4
+Run finished at: July 28, 2021
+05:58:28
+Runs done: 1
+Run finished at: July 28, 2021
+06:18:18
+Runs done: 2
+Run finished at: July 28, 2021
+06:38:36
+Runs done: 3
+Run finished at: July 28, 2021
+06:58:47
+Runs done: 4
+Run finished at: July 28, 2021
+07:16:22
+Runs done: 5
+Run finished at: July 28, 2021
+07:36:13
+Runs done: 6
+Run finished at: July 28, 2021
+07:52:41
+Runs done: 7
+Run finished at: July 28, 2021
+08:12:52
+Runs done: 8
+Run finished at: July 28, 2021
+08:29:12
+Runs done: 9
+Run finished at: July 28, 2021
+08:47:17
+Runs done: 10
+Run finished at: July 28, 2021
+09:07:40
+Runs done: 11
+Run finished at: July 28, 2021
+09:25:10
+Runs done: 12
+Run finished at: July 28, 2021
+09:41:20
+Runs done: 13
+Run finished at: July 28, 2021
+10:01:22
+Runs done: 14
+Run finished at: July 28, 2021
+10:21:23
+Runs done: 15
+Run finished at: July 28, 2021
+10:38:30
+Runs done: 16
+Run finished at: July 28, 2021
+10:54:55
+Runs done: 17
+Run finished at: July 28, 2021
+11:14:21
+Runs done: 18
+Run finished at: July 29, 2021
+01:59:01
+Runs done: 1
+Run finished at: July 29, 2021
+02:19:01
+Runs done: 2
+Run finished at: July 29, 2021
+02:38:45
+Runs done: 3
+Run finished at: July 29, 2021
+02:59:00
+Runs done: 4
+Run finished at: July 29, 2021
+03:18:28
+Runs done: 5
+Run finished at: July 29, 2021
+03:37:49
+Runs done: 6
+Run finished at: July 29, 2021
+03:57:31
+Runs done: 7
+Run finished at: July 29, 2021
+04:14:40
+Runs done: 8
+Run finished at: July 29, 2021
+04:30:43
+Runs done: 9
+Run finished at: July 29, 2021
+04:50:17
+Runs done: 10
+Run finished at: July 29, 2021
+11:45:52
+Runs done: 1
+Run finished at: July 29, 2021
+12:03:03
+Runs done: 2
+Run finished at: July 29, 2021
+12:22:42
+Runs done: 3
+Run finished at: July 29, 2021
+12:43:21
+Runs done: 4
+Run finished at: July 29, 2021
+13:02:47
+Runs done: 5
+Run finished at: July 29, 2021
+13:22:24
+Runs done: 6
+Run finished at: July 29, 2021
+13:41:51
+Runs done: 7
+Run finished at: July 29, 2021
+14:01:46
+Runs done: 8
+Run finished at: July 29, 2021
+14:21:36
+Runs done: 9
+Run finished at: July 29, 2021
+14:38:21
+Runs done: 10
+Run finished at: July 29, 2021
+14:59:01
+Runs done: 11
+Run finished at: July 29, 2021
+15:19:12
+Runs done: 12
+Run finished at: July 29, 2021
+15:36:58
+Runs done: 13
+Run finished at: July 29, 2021
+15:53:29
+Runs done: 14
+Run finished at: July 29, 2021
+16:13:38
+Runs done: 15
+Run finished at: July 29, 2021
+16:48:51
+Runs done: 1
+Run finished at: July 29, 2021
+17:06:13
+Runs done: 2
+Run finished at: July 29, 2021
+17:26:56
+Runs done: 3
+Run finished at: July 30, 2021
+02:13:00
+Runs done: 1
+Run finished at: July 30, 2021
+02:33:09
+Runs done: 2
+Run finished at: July 30, 2021
+12:39:21
+Runs done: 1
+Run finished at: July 30, 2021
+12:56:01
+Runs done: 2
+Run finished at: July 30, 2021
+13:15:51
+Runs done: 3
+Run finished at: July 30, 2021
+13:36:03
+Runs done: 4
+Run finished at: July 30, 2021
+13:56:41
+Runs done: 5
+Run finished at: July 30, 2021
+14:17:15
+Runs done: 6
+Run finished at: July 30, 2021
+14:33:45
+Runs done: 7
+Run finished at: July 30, 2021
+14:53:56
+Runs done: 8
+Run finished at: July 30, 2021
+15:10:41
+Runs done: 9
+Run finished at: July 30, 2021
+15:30:53
+Runs done: 10
+Run finished at: July 30, 2021
+15:47:58
+Runs done: 11
+Run finished at: July 30, 2021
+16:04:50
+Runs done: 12
+Run finished at: July 30, 2021
+16:25:02
+Runs done: 13
+Run finished at: July 30, 2021
+16:44:57
+Runs done: 14
+Run finished at: July 30, 2021
+17:04:55
+Runs done: 15
+Run finished at: July 30, 2021
+17:21:25
+Runs done: 16
+Run finished at: July 30, 2021
+17:41:51
+Runs done: 17
+Run finished at: July 30, 2021
+17:59:18
+Runs done: 18
+Run finished at: July 30, 2021
+18:15:41
+Runs done: 19
+Run finished at: July 30, 2021
+18:35:52
+Runs done: 20
+Run finished at: July 30, 2021
+18:56:30
+Runs done: 21
+Run finished at: July 30, 2021
+19:14:01
+Runs done: 22
+Run finished at: July 30, 2021
+19:30:25
+Runs done: 23
+Run finished at: July 30, 2021
+19:50:32
+Runs done: 24
+Run finished at: July 30, 2021
+20:08:20
+Runs done: 25
+Run finished at: July 30, 2021
+20:27:57
+Runs done: 26
+Run finished at: July 30, 2021
+20:47:59
+Runs done: 27
+Run finished at: July 30, 2021
+21:07:45
+Runs done: 28
+Run finished at: July 31, 2021
+02:35:05
+Runs done: 29
+Run finished at: July 31, 2021
+02:51:37
+Runs done: 30
+Run finished at: July 31, 2021
+03:11:35
+Runs done: 31
+Run finished at: July 31, 2021
+03:28:44
+Runs done: 32
+Run finished at: July 31, 2021
+03:48:30
+Runs done: 33
+Run finished at: July 31, 2021
+04:09:02
+Runs done: 34
+Run finished at: July 31, 2021
+04:29:10
+Runs done: 35
+Run finished at: July 31, 2021
+04:49:01
+Runs done: 36
+Run finished at: July 31, 2021
+05:09:01
+Runs done: 37
+Run finished at: July 31, 2021
+05:29:13
+Runs done: 38
+Run finished at: July 31, 2021
+05:49:13
+Runs done: 39
+Run finished at: July 31, 2021
+06:09:45
+Runs done: 40
+Run finished at: July 31, 2021
+06:30:08
+Runs done: 41
+Run finished at: July 31, 2021
+06:47:36
+Runs done: 42
+Run finished at: July 31, 2021
+07:07:20
+Runs done: 43
+Run finished at: July 31, 2021
+07:27:02
+Runs done: 44
+Run finished at: July 31, 2021
+07:46:36
+Runs done: 45
+Run finished at: July 31, 2021
+08:06:01
+Runs done: 46
+Run finished at: July 31, 2021
+08:26:27
+Runs done: 47
+Run finished at: July 31, 2021
+08:46:58
+Runs done: 48
+Run finished at: July 31, 2021
+09:07:21
+Runs done: 49
+Run finished at: July 31, 2021
+09:27:32
+Runs done: 50
+Run finished at: July 31, 2021
+09:45:22
+Runs done: 51
+Run finished at: July 31, 2021
+10:02:30
+Runs done: 52
+Run finished at: July 31, 2021
+10:18:46
+Runs done: 53
+Run finished at: July 31, 2021
+10:38:38
+Runs done: 54
+Run finished at: July 31, 2021
+10:58:27
+Runs done: 55
+Run finished at: July 31, 2021
+11:15:22
+Runs done: 56
+Run finished at: July 31, 2021
+11:35:30
+Runs done: 57
+Run finished at: July 31, 2021
+11:55:15
+Runs done: 58
+Run finished at: August 01, 2021
+02:03:41
+Runs done: 1
+Run finished at: August 01, 2021
+02:23:52
+Runs done: 2
+Run finished at: August 01, 2021
+02:43:53
+Runs done: 3
+Run finished at: August 01, 2021
+03:03:40
+Runs done: 4
+Run finished at: August 01, 2021
+03:23:25
+Runs done: 5
+Run finished at: August 01, 2021
+03:43:22
+Runs done: 6
+Run finished at: August 01, 2021
+04:01:12
+Runs done: 7
